@@ -7,7 +7,7 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """**<p align="center">[hadwin's Blog](https://blog.leeyom.top)</p>**
+MD_HEAD = """**<p align="center">[hadwin's Blog](https://hadwinn.github.io)</p>**
 ====
 
 **<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
