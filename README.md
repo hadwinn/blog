@@ -2,14 +2,11 @@
 ====
 
 **<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
-[![](https://raw.githubusercontent.com/superleeyom/blog/main/img/IMG_216.JPEG)](https://blog.leeyom.top)
 
 ## 联系方式
-- Twitter：[@super_leeyom](https://twitter.com/super_leeyom)
-- Telegram：[@super_leeyom](https://t.me/super_leeyom)
-- Email：[leeyomwang@163.com](mailto:leeyomwang@163.com)
-- Blog：[https://blog.leeyom.top](https://blog.leeyom.top)
-- RSS：[RSS Feed](https://raw.githubusercontent.com/superleeyom/blog/master/feed.xml)
+- Twitter：[@hadwinjia](https://twitter.com/hadwinjia)
+- Email：[hadwin@duck.com](mailto:hadwin@duck.com)
+- Blog：[https://hadwinn.github.io](https://hadwinn.github.io)
 ## 最近更新
 - [[笔记]神的九十亿个名字](https://github.com/superleeyom/blog/issues/50)--2022-06-25
 - [[笔记]盐糖脂：食品巨头是如何操纵我们的](https://github.com/superleeyom/blog/issues/49)--2022-04-02
