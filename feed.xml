@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-09-16T08:28:14.223405+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-09-16T08:28:14.478932+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-09-16T11:54:04.354899+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「转载」基于Github Issues的博客搭建</title><updated>2022-09-16T11:54:04.600297+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+<p>这里转载存档。
+链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-09-16T11:54:04.705672+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -313,7 +316,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-09-16T08:28:14.651935+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-09-16T11:54:04.875418+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
