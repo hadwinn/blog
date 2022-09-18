@@ -10,7 +10,7 @@ from lxml.etree import CDATA
 MD_HEAD = """**<p align="center">[hadwin's Blog](https://hadwinn.github.io)</p>**
 ====
 
-**<p align="center">用于记录一些幼稚的想法和脑残的瞬间</p>**
+**<p align="center">胡乱写一些</p>**
 
 ## 联系方式
 - Twitter：[@hadwin](https://twitter.com/hadwinjia)
