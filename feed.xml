@@ -1,5 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-09-25T07:40:48.680424+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-09-25T07:40:49.159941+00:00</updated><content type="html"><![CDATA[<h2>2022年第38周（秋季学期第4周）</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-01T01:35:49.292407+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-01T01:35:49.558257+00:00</updated><content type="html"><![CDATA[<blockquote>
+<ul>
+<li>书名： 十个词汇里的中国</li>
+<li>作者： 余华</li>
+<li>简介： </li>
+<li>出版时间 </li>
+<li>ISBN： </li>
+<li>分类： </li>
+<li>出版社： 麥田出版</li>
+</ul>
+</blockquote>
+<p>2009年，余华在美国期间，受白亚仁邀请前往波姆那学院（Pomona College）讲述当代中国，后撰写了本书，于2010年在法国出版。余华生于1960年4月3日，长于共和国关键期。幼时的经历很大程度上影响了余华的思维方式，与其说是十个词汇里的中国，不如说是十个词汇中余华，他从：<strong>人民、领袖、阅读、写作、鲁迅、差距、革命、草根、山寨、忽悠</strong> 十个篇章讲述了那个疯狂年代下自己或他人的故事。
+因为成书较早有的篇幅不敢苟同，但仍可揣摩中国文化大革命到改革开放及以后的社会脉搏。值得一读。</p>
+<blockquote>
+<p>「当他人的疼痛成为我自己的疼痛，我就会真正领悟到什么是人生，什么是写作。我心想，这个世界上可能再也没有比疼痛感更容易使人们互相沟通了，因为疼痛感的沟通之路是从人们内心深处延伸出来的。所以，我在本书写下中国的疼痛之时，也写下了自己的疼痛。因为中国的疼痛，也是我个人的疼痛。」</p>
+</blockquote>
+<h3>人民</h3>
+<p>『从文革开始到今天的四十多年，「人民」这个词汇在中国的现实里好像是空的。用现在中国流行的经济术语来说，「人民」只是一个壳资源，不同的时代以不同的内容用它借壳上市。』</p>
+<h3>领袖</h3>
+<p>「看到我因为止不住的笑而剧烈抖动的肩膀，这几个同学错误地认为我对毛泽东的感情很深，他们后来这么说：余华哭得最伤心，他的肩膀抖动得最厉害。」</p>
+<h3>阅读</h3>
+<p>『直到多年后的某一天，我偶尔读到了海涅的诗句：「死亡是凉爽的夜晚」。这个消失已久的童年记忆，在我颤动的心里瞬间回来了。像是刚刚被洗涤过一样，清晰无比地回来了，而且再也不会离我而去。』</p>
+<h3>写作</h3>
+<p>「每个人在其一生里都有无数的欲望和情感不能表达出来，现实环境和个人理智压制了它们。可是在写作的世界里，这些受到压制的欲望和情感可以充分表达出来。我觉得，写作有助于一个人的身心健康，可以让一个人的人生变得完整起来。或者说，写作会让一个人拥有两条人生道路，一条是现实的，另一条是虚构的。它们之间的关系就像是健康和疾病一样，一个强大起来的时候，另一个必然衰落下去。当我现实的人生道路愈来愈平淡之时，也就意味着我虚构的人生道路愈来愈丰富了。」</p>
+<h3>鲁迅</h3>
+<p>『文革时期的鲁迅虽然名声达到顶峰，可是真正的读者却寥寥无几，「鲁迅先生说」只是一个时代在起哄而已。』
+『「鲁迅」在中国的命运，从一个作家的命运到一个词汇的命运，再从一个词汇的命运回到一个作家的命运，其实也折射出中国的命运。中国历史的变迁和社会的动荡，可以在「鲁迅」里一叶见秋。』
+「在我三十六岁的那个夜晚，鲁迅在我这里，终于从一个词汇回到了一个作家。回顾小学到中学的岁月里，我被迫阅读鲁迅作品的情景时，我感慨万端，我觉得鲁迅是不属于孩子们的，他属于成熟并且敏感的读者。」</p>
+<h3>差距</h3>
+<p>「正是感到自己可以死而无憾，让这个原本胆怯的人突然变成一个勇敢的人。这就是我们这一代的少年时期，一次对女性成熟乳房的瞬间触及，可以改变一个人。因为我们成长在一个极端的年代，打架斗殴时我们胆大妄为，渴望女性真实的肉体时我们战战兢兢。」</p>
+<h3>革命</h3>
+<p>「那个时候，谁要是抢夺到了公章，谁就拥有了真正的权力。可以堂而皇之地发布命令，可以名正言顺地到财务部门去领取革命经费；可以将自己讨厌的人置于死地，可以将国家的钱用于造反派的革命经费。一切胡作非为，只要写在纸上盖上抢夺来的公章后，立刻就合法化了。」</p>
+<h3>山寨</h3>
+<p>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-01T01:35:49.699493+00:00</updated><content type="html"><![CDATA[<h2>2022年第38周（秋季学期第4周）</h2>
 <ul>
 <li>
 跑步<ul>
@@ -77,7 +111,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-09-25T07:40:49.418359+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-01T01:35:49.834114+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
 <blockquote>
 <p>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。
 第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。
@@ -98,10 +132,10 @@
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「转载」基于Github Issues的博客搭建</title><updated>2022-09-25T07:40:49.651774+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「转载」基于Github Issues的博客搭建</title><updated>2022-10-01T01:35:49.957414+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-09-25T07:40:49.869444+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-01T01:35:50.094573+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -415,7 +449,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-09-25T07:40:50.154552+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-01T01:35:50.286943+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
