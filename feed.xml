@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-01T10:02:23.389287+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-01T10:02:23.866183+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-01T10:04:31.802783+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-01T10:04:31.990602+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/191/44026191/t7_44026191.jpg" alt=" 纳瓦尔宝典|200" /></li>
 <li>书名： 纳瓦尔宝典</li>
@@ -67,7 +67,7 @@
 <ul>
 <li>所有产品从V1到V3的必经之路：制造产品，改进产品，建立业务。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-01T10:02:24.110594+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-01T10:04:32.098526+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/v2-5b66186159da5f6ceb6b14bdd0046ad2_b.jpg" alt="十个词汇里的中国|200" /></li>
 <li>书名： 十个词汇里的中国</li>
@@ -114,7 +114,7 @@
 <ul>
 <li>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-01T10:02:24.352505+00:00</updated><content type="html"><![CDATA[<h2>2022年第38周（秋季学期第4周）</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-01T10:04:32.189305+00:00</updated><content type="html"><![CDATA[<h2>2022年第38周（秋季学期第4周）</h2>
 <ul>
 <li>
 跑步<ul>
@@ -192,31 +192,31 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-01T10:02:24.582081+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
-<blockquote>
-<p>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。
-第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。
-第三条是：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。
-最后一条是：在任何情况之下，都要尽量全面地考察，尽量普遍地复查，做到确信毫无遗漏。</p>
-</blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-01T10:04:32.280100+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+<ul>
+<li>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</li>
+<li>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</li>
+<li>第三条是：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。</li>
+<li>最后一条是：在任何情况之下，都要尽量全面地考察，尽量普遍地复查，做到确信毫无遗漏。</li>
+</ul>
 <p>共勉。</p>
 <h1>当我谈跑步时，我谈些什么 - 村上春树</h1>
-<blockquote>
-<p>希望一人独处的念头始终不变地存于心中，所以一天跑一个小时，来确保只属于自己的沉默的时间，对我的精神健康来说成了具有重要意义的功课。至少在跑步时不需要和任何人交谈，不必听任何人说话，只要眺望周围的风光、凝视自己就行。这是任何东西都无法替代的宝贵时刻。
-当受到某人无缘无故（至少我看来是如此）的非难时，或是觉得能得到某人的接受却事与愿违时，我总是比平日跑得更远一些。跑长于平日的距离，让肉体更多地消耗一些，好重新认识自己是个能力有限的软弱人类——从最深处物理性地认识这一点。而且跑的距离长于平日，便是强化了自己的肉体，哪怕只是一点点。发怒的话，就将那份怒气冲着自己发好了。感到懊恼的话，就用那份懊恼来磨炼自己好了。我就是如此思考的。能够默默吞咽下去的东西，就一星不剩地吞咽进体内，在小说这一容器中尽力改变它的姿态和形状，将它当作故事的一部分释放出去。我努力做到这一点。</p>
-</blockquote>
+<ul>
+<li>希望一人独处的念头始终不变地存于心中，所以一天跑一个小时，来确保只属于自己的沉默的时间，对我的精神健康来说成了具有重要意义的功课。至少在跑步时不需要和任何人交谈，不必听任何人说话，只要眺望周围的风光、凝视自己就行。这是任何东西都无法替代的宝贵时刻。</li>
+<li>当受到某人无缘无故（至少我看来是如此）的非难时，或是觉得能得到某人的接受却事与愿违时，我总是比平日跑得更远一些。跑长于平日的距离，让肉体更多地消耗一些，好重新认识自己是个能力有限的软弱人类——从最深处物理性地认识这一点。而且跑的距离长于平日，便是强化了自己的肉体，哪怕只是一点点。发怒的话，就将那份怒气冲着自己发好了。感到懊恼的话，就用那份懊恼来磨炼自己好了。我就是如此思考的。能够默默吞咽下去的东西，就一星不剩地吞咽进体内，在小说这一容器中尽力改变它的姿态和形状，将它当作故事的一部分释放出去。我努力做到这一点。</li>
+</ul>
 <p>我想钟爱长跑的人或多或少都有这样的心绪。我永远都是一个人跑，跑步让我有了独处的时空，摆脱了一切事务，在当下，向前跑就是最重要的。没有什么是10公里解决不了的。</p>
 <h1>怀旧的乌托邦 - 齐格蒙特·鲍曼</h1>
-<blockquote>
-<p>世界上有两个民族。在他们之间，并不存在交流，也不存在同情。他们对彼此的习惯、思想和情感都毫不关心，似乎他们是不同区域中的定居者或者两个不同星球上的居民。他们是在不同的教养中形成的，吃的是不同的食物，遵循不同的命令和秩序，由不同的法律支配和统治。</p>
-</blockquote>
+<ul>
+<li>世界上有两个民族。在他们之间，并不存在交流，也不存在同情。他们对彼此的习惯、思想和情感都毫不关心，似乎他们是不同区域中的定居者或者两个不同星球上的居民。他们是在不同的教养中形成的，吃的是不同的食物，遵循不同的命令和秩序，由不同的法律支配和统治。</li>
+</ul>
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「转载」基于Github Issues的博客搭建</title><updated>2022-10-01T10:02:24.817906+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「转载」基于Github Issues的博客搭建</title><updated>2022-10-01T10:04:32.358508+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-01T10:02:25.034793+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-01T10:04:32.433375+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -530,7 +530,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-01T10:02:25.338120+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-01T10:04:32.573430+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
