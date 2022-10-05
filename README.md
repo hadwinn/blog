@@ -8,13 +8,13 @@
 - Email：[hadwin@duck.com](mailto:hadwin@duck.com)
 - Blog：[https://hadwinn.github.io](https://hadwinn.github.io)
 ## 最近更新
-- [「个人」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
+- [「分享」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
 - [「书摘」骆驼祥子](https://github.com/hadwinn/blog/issues/8)--2022-10-05
 - [「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事](https://github.com/hadwinn/blog/issues/7)--2022-10-01
 - [「书摘」十个词汇里的中国](https://github.com/hadwinn/blog/issues/6)--2022-10-01
 - [「个人」2022个人周报](https://github.com/hadwinn/blog/issues/5)--2022-09-18
 ## 2022
-- [「个人」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
+- [「分享」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
 - [「个人」2022个人周报](https://github.com/hadwinn/blog/issues/5)--2022-09-18
 ## 东转西载
 - [「转载」基于Github Issues的博客搭建](https://github.com/hadwinn/blog/issues/3)--2022-09-16
@@ -34,4 +34,4 @@
 </details>
 
 ## 随缘分享
-- [「个人」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
+- [「分享」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
