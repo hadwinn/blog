@@ -1,5 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-07T04:45:28.255198+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2022-10-07T04:45:28.869524+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-09T07:52:52.306735+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2022-10-09T07:52:52.486007+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
+<p>‌‌‌<img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/20221009145508.png" alt="电影，我只略知一二 | 200" /></p>
+<blockquote>
+<p>这档节目不是一系列严谨的学士报告，
+也不涉及高深的理论，
+也不是电影秘史的钩沉。
+仅仅是一个导演的电影学习笔记。</p>
+</blockquote>
+<h1>电影的新与旧</h1>
+<p>‌‌‌　　现代理论的学习，让我们更加贴近于人类目前的理解问题、处理问题的前沿。但不是一部出产年月是 2020 年 1 月的电影就是当代电影、现代电影，绝对一点，它可能是一个很过时的电影。
+‌‌‌　　为什么会过时？因为你看待世界的目光是旧的、是陈腐的。怎么保持一种新鲜的目光，它在于我们对于人类思考这个世界最新进展的这些理论的掌握，它要变成我们的软件。
+‌‌‌　　通过这些理论学习，变成一个现代的人，具有现代精神，电影才能有现代精神，如果用过去认知方法来理解这个世界，显然相对来说你的精神可供当代人分享的部分就显得就落伍。
+‌‌‌　　因此只有不停地吸取理论，成为一个具有当代精神的人的时候，基本上才能够保证你的电影是属于当代的。</p>
+<h1>为什么是长镜头</h1>
+<p>‌‌‌　　长镜头理论的本源是：电影是物质现实的复原，如果你想客观呈现现实世界，并且客观性对你是最重要的，显然长镜头更能表现这一点。
+‌‌‌　　如果想探讨这个世界的未知、模糊、多意、复杂，长镜头不置评论的客观陈述就显得十分重要。长镜头往往因为这种客观性，在情感方面会呈现出克制的气质。被克制的抒情，会让我们避免滑入滥情的泥潭，对人性的深入理解往往止步于滥情。</p>
+<blockquote>
+<p>法国电影理论家安德烈 · 巴赞说：「当代电影有一个标志，就是每一部电影中应该有一个空洞，这个空洞是无的，但是它又是有的，观众可以把自己的思绪、把自己的生命经验、自己的判断付诸于此。」</p>
+</blockquote>
+<h1>动，电影的最强基因</h1>
+<p>‌‌‌　　电影的所谓描述，就是要让观众看到人物的行动。所以一部电影音乐再好、画面再好，缺乏动作也就会缺乏电影感。
+‌‌‌　　早期的默片因为无法通过声音传递信息，因此人物角色具有大量的活动特点，场景具有大量的运动属性。而有声电影出现后，虽然提升了电影的信息承载量，但一方面又削弱了所谓的电影感。
+‌‌‌　　语言台词的「动」不是电影的「动」。所以强调电影的「动」，是要强调人物的动作，这种动也存在于人物关系之中。人物关系建立以后，人和人要产生互动，这是其他视觉艺术做不到的地方。</p>
+<h1>尊敬的反叛</h1>
+<p>‌‌‌　　很长时间里，我们惯有的文化逻辑是：艺术需要创造，创造需要反叛，在这个逻辑链里，创造与反叛是对的，但反叛就是一代人战胜另一代人吗？
+‌‌‌　　贾樟柯认为我们需要的是一种尊敬的叛逆，这个尊敬在于你需要有学习，需要对电影的发展脉络了然于胸。在这个基础上，我觉得你的反叛会是有针对性的，而不是仅仅只是一种情绪。</p>
+<h1>作者电影是不是一种类型</h1>
+<p>‌‌‌　　作者电影首先是一种创作主张，也可理解为一种创作愿望、创作的态度，之后需要在完成片里观察这部影片是否具有「作者」意识。所以作者电影最终需要对电影中的「作者性」进行认定，是一种创作主张，也是一种电影的评价方式，而谈不上是一种类型。
+‌‌‌　　新浪潮导演特吕弗，发表《法国电影的某种倾向》。第一次明确提出了「电影作者」和「作者电影」这两个概念，提出了「导演应该而且希望对他们表现的剧本和对话负责」的「作者电影」概念。
+‌‌‌　　他认为，一部影片的真正作者应当是导演；影片应当明显体现导演的个性；导演应该像作家一样，通过他所在的作品表现他对生活的观点；一个导演的作品的价值是由他一贯表现出的思想和艺术特征所决定的。
+‌‌‌　　「作者论」直接影响了法国「新浪潮」电影的产生，为鼓励艺术创新、提高导演在制片环节中的地位、减少厂方对于创作的干扰起到了积极的作用。
+‌‌‌　　简单地说，就是导演不仅负责制作一部电影，更要能力、有权力输出个体的情感和思想。就像盖房子一样，导演不再是拿着古人盖房子的图纸那样一个包工头，导演本身就是这个建筑的设计者，同时也是施工者。
+‌‌‌　　作者电影一定是有一种个体色彩。简单来说，作者电影就是要让电影背后拥有一个具体的人，是他在表达自我，就像这个人说话的口音一样，作者电影要带有一个具体的人的独特口音、独特的话语节奏、独特的用词。
+‌‌‌　　作者电影就是主张：必须把创作整合到一个人的主体思想和情感中来，那就是这部电影的作者——导演，让这部作品带着这个人的激情与体温、角度与态度，带着生成于一个活生生的人的内心世界的，一个具体人的情感逻辑。</p>
+<h1>类型中的作者</h1>
+<p>‌‌‌　　什么是类型电影呢？类型电影就是按照不同类型、模式的规定要求制作出来的影片。大多数商业电影都是以类型观念作为影片制作的基础观念的，实际上就是一种艺术产品标准化的规范，就是按照不同类型的既定要求而创作出来的影片，比如喜剧片、西部片、犯罪片、恐怖片、歌舞片等。
+‌‌‌　　类型电影有三个基本要素：
+‌‌‌　　1. 模式化的情节，如西部片里的铁骑劫美、英雄解围
+‌‌‌　　2. 定型化的人物，比如西部片中沉默寡言的西部牛仔、武侠片中仗剑走天涯的侠客
+‌‌‌　　3. 辨识度高的造型，比如西部片里的荒野旷野，歌舞片中无人出入的街道
+‌‌‌　　事实上也有很多有创造性的导演，他们把自己对世界的态度和看法融入到了模式化的类型元素中，有的则是发展和丰富了类型元素，有的甚至是颠覆了类型元素，也就是「反类型」。这样的导演，被称为「类型中的作者」。
+‌‌‌　　所谓类型，直白地说就是包含了已经经过市场检验的、好卖的元素。当然这样的电影有很强的商业诉求，大部分都属于商业电影。但是商业电影并不等于没有艺术要求，如果电影背后有一个创造力十足的电影作者，也就是导演，商业电影同样也可以是杰出的艺术品。</p>
+<h1>表演是所有人的工作</h1>
+<p>‌‌‌　　从空间上来说，现场空间是一个立体的、多维的空间，导演应该身临其境，去体验那里的光线气氛，建筑物的阴影、明亮；如果是实景拍摄，也应该感受街道上往来的车辆、人流，去捕捉真实现场的氛围。</p>
+<blockquote>
+<p>著名剪辑师沃尔特·默奇在他的著作《眨眼之间》里写道：一部电影需要经历五次写作。第一次是编剧，第二次是导演和演员，第三次是摄影，第四次是剪辑，第五次是声音合成。电影真的是一个极其复杂的系统性工作。</p>
+</blockquote>
+<p>‌‌‌　　导演有一个很重要的工作，就是要让演员的反射始终是新鲜的，这是可以做到的，用一种情绪的带动，进入到一种未知的状态。</p>
+<h1>场面调度，导演的核心工作</h1>
+<p>‌‌‌　　场面调度原来是一个舞台戏剧的概念，指在戏剧舞台上处理演员表演活动位置的一种技巧。场面调度被引用到电影艺术创作中来，其内容和性质与舞台上就不一样了，它不仅关系到演员的调度，而且还涉及到了摄影机调度，也称镜头调度。
+‌‌‌　　画框的作用，已经奠定了一部电影的风格特点。
+‌‌‌　　画框之内，人物还可以做纵深运动，电影是二维平面的。纵深运动揭示了现实世界是有三维空间的，因此纵深镜头，也就是景深镜头的调度，被认为非常重要。在银幕二维空间里，再现三维空间的手法，因此更贴近「电影物质现实还原」这个本体特点，更有纪实感。
+‌‌‌　　实景真正的意义，是要捕捉到自然的街道上，空间里面的自然的人流跟秩序。
+‌‌‌　　导演需要考虑画框里的一切，这一切构成了电影的肌体。电影画框中的每个事物都是有承载意义的，电影就是一个「无中生有」的工作，这是人类最接近上帝的工作，你要赋予银幕形象、色彩、声音，还有重量。</p>
+<h1>《偷自行车的人》，一顿好饭的快乐和痛苦</h1>
+<p>‌‌‌　　《偷自行车的人》全片采用了实景拍摄，非职业演员出演，那位失业工人就是一个工厂的工人，小男孩是在大街上从看热闹的人群中物色到的，扮演工人妻子的演员是位新闻记者。
+‌‌‌　　从戏剧逻辑上来讲，寻找自行车这样的一个戏剧动作主要是发生在父亲身上的，是父亲需要这辆自行车，但儿子这样一个人物的出现，让父子之间形成了相互的视点。也就是说，可以通过儿子的视点来观察父亲，也可以通过父亲的视点来观察儿子。而这种交错的视点，给影片带来了除作者视点之外的另外两种视点：父亲的视点与儿子的视点。
+‌‌‌　　这两种视点为这部影片带来了一种体验上的私人性，也就是说，摆脱了作者的全知视点，而带有一种更加私人化的场景感受。正如法国电影评论家巴赞所言：孩子在影片中的多种辅助作用，既涉及故事结构，亦涉及场景调度本身，孩子的在场为影片引入了调式变化。我们随着小男孩和他的父亲漫步街头，实际上我们也就从社会和经济层面进入到个人生活层面。
+‌‌‌　　新现实主义向我们展示了非职业演员是如何将生活的痕迹带入电影，并在创造特定的现实质感的时候成为核心要素。</p>
+<h1>纪录片不是电影吗？</h1>
+<p>‌‌‌　　1902 年，梅里爱根据凡尔纳的小说《从地球到月球》和威尔斯的小说《第一个到达月球上的人》，拍摄了一群天文学家乘坐炮弹到月球探险的情景，这部电影 <a href="https://letterboxd.com/film/a-trip-to-the-moon/">A Trip to the Moon</a> 也被认为是科幻电影的先驱。梅里爱的电影开拓了电影的另外一个传统，就是虚构叙事的传统。
+‌‌‌　　而纪录片考验一个创作者高度的创作自觉性和敏锐性。因为当你决定拍一个纪录片的时候，你要拍摄的东西带有一种未知的、偶发的情况，导演要对这种情况做要出第一反应。这个反应既是内容的反应，也是形式的反应。
+‌‌‌　　拍摄纪录片实际上面临两个角色，一个是人，一个是空间。人总是在空间里活动的，你首先要处理人，拍摄他身上发生的故事，另外还要拍他所处的空间，所以我们面临的就是这两个被拍摄的主体。
+‌‌‌　　纪录片实际上是相当自由的一种形式。最终，纪录片仍然应该在美学的层面考虑问题，导演们追求的不单单是内在的真实，更应该考虑的是美学层面的真实感。</p>
+<h1>伊文思的一场春雨</h1>
+<p>‌‌‌　　十几分钟的《雨》，持续拍摄了四个月，是一部充满诗意的影片。
+‌‌‌　　这对看惯了故事情节的观众来说，《雨》为我们呈现了电影形态最初的面貌。电影这门艺术，并不是单单为人类讲述故事而发明的。虽然电影有讲述故事的非凡能力，但电影也可以不讲述故事。电影可以拍摄一种抽象的感受，模模糊糊的诗意，就是朦胧的诗意，无法用语言表述的美感。
+‌‌‌　　伊文思用拍摄 4 个月积累起来的素材，为观众梳理和建构了一场雨的清晰的时间进程。他缜密地为我们在银幕上重新编织了雨的内在结构，这是一场伊文思调度而来的春雨。
+‌‌‌　　伊文思的这部影片呈现出了罕见的优雅，摄影机对一场雨的描述，为我们带来了具有韵律的抽象美感。导演没有提供给观众可以追随的故事、激烈的事件和一以贯之的人物，他用高超的蒙太奇语言，以风、雨、云为角色，仅仅是让我们经历了一场雨，在这一场“银幕之雨”里，让我们经历了诗意。
+‌‌‌　　由此，我们可以发现，一部电影作品可以像唐诗一样，是可以脱离叙事和戏剧而存在的。就像「千山鸟飞绝，万径人踪灭」的诗句一样，单纯描绘景物，也可以构筑一部完整的电影。只不过文学是用文字，电影是用镜头。从这个角度，我们可以明白人们常说的一句话：电影是一种语言。
+‌‌‌　　我愿意把这种电影称之为「元电影」，可以说是电影最初的形态，也可以称之为最本质的形态。我们也可以这样理解，电影首先是一种捕捉现实世界的方法，而不是再造世界的方法。与之相反，电影同时也是重新结构世界的方法。这让电影可以同时呈现两种现实：物质的和精神的。
+‌‌‌　　那场春雨，诗意、脱俗、超凡地表现了人类的生存知觉。</p>
+<h1>实验，电影重回默片时代</h1>
+<p>‌‌‌　　美国导演格里菲斯在 1915 年拍摄了《一个国家的诞生》，影片以美国南北战争为背景，围绕南北两个家族来展开情节。影片在两个家族中，展开三条线索。三条线索交织进行，形成影片的总体结构。这部影片由 1500 个镜头组成，可放映 3 个小时。这可以视为好莱坞大片的开始，由此确立了剧情长片的概念。
+‌‌‌　　格里菲斯 1916 年的《党同伐异》由古代、近代、现代、当代四个小故事组成，分别是讲述 20 世纪初的《母与法》、公元 27 年的《基督受难》、公元 1573 年的《圣巴多罗缪的屠杀》和公元前 539 年的《巴比伦的陷落》。四个故事犹如四条河流，本来分开，慢慢前进，后来越来越奔腾，交叉在一起，汇成党同伐异的激流。《党同伐异》将发生在不同地点的平行动作交替切换，摆脱了现实时间的束缚，打破了传统戏剧叙述的原则，创造出了真正符合电影艺术规律的叙事时空，给电影的时间和空间带来了极大的自由，这就彻底打破了戏剧的「三一律」。
+‌‌‌　　所谓「三一律」是西方文艺复兴时期提出的一个关于戏剧结构的规则，要求戏剧创作在时间、地点、情节三者之间保持一致性，也就是要求一出戏所叙述的故事要发生在一天、一昼夜之内，地点在一个场景，情节服务于一个主题，《党同伐异》打破了「三一律」，也就使电影发展成一门独立的艺术。格里菲斯在《火车大劫案》的基础上更进一步，他的每个场面由若干个镜头组成，整部电影又由不同的场面构成。由不同的镜头组成场，由场组成段落，由段落组成全片，这几乎确立了电影这一媒介的机体结构。
+‌‌‌　　之后，前苏联导演库里肖夫、爱森斯坦、普多夫金等人，不仅在创作上实践蒙太奇方法，他们也在理论层面总结蒙太奇的理论。他们发现，当不同镜头组接在一起时，又会产生单个镜头单独存在时所不具有的含义。蒙太奇这种操纵时空的能力，使导演可以根据他对生活的分析，选取他认为最能表明生活实质，最能表现人物性格、展现人物关系，最能抒发艺术家情感的部分，组合在一起。
+‌‌‌　　在一个长期的艺术实践中，艺术家与观众会形成一种紧密的连接关系，会共同形成一种共同的艺术趣味。他们彼此之间是默契的、心照不宣的。所以这个艺术共同体呈现出来的艺术贡献是封闭的、稳定的。创作者的创作是有对象性的，这就是趣味共同体的原则。这种趣味共同体因格里菲斯、爱森斯坦的非凡创作，而显得更加稳定。
+‌‌‌　　先锋派电影和当时的先锋艺术运动合流，就是要打破这一艺术的趣味惯性，瓦解共同体。因此，先锋电影呈现出了对观众欣赏习惯的挑战，而不是顺从。
+‌‌‌　　实验电影盛行的年代，电影是多么得活泼，电影形态是多么得多元，它所能够带给观众的是多么立体的感受，那些我们埋藏在潜意识中的、无意识的、下意识的内心的秘密，通过这些看似无序、杂乱，却有着严密的哲学依托的影片，呈现出来。</p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2022-10-09T07:52:52.587353+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
 <p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
 <hr />
 <ul>
@@ -44,7 +124,7 @@
 </li>
 </ul>
 <p>具体应用请参照来源网址。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2022-10-07T04:45:29.120753+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2022-10-09T07:52:52.663589+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/204/33628204/t7_33628204.jpg" alt=" 认知觉醒：开启自我改变的原动力|200" /></li>
@@ -90,7 +170,7 @@
 <li>书写自己当前面临的负面事件，就可以调动更多的理性资源帮助我们整理思路，使处理情绪思维的优先级暂居其后，同时，书写这一行为可以激活大脑皮层的语言区和书写区，使我们对当前遇到的负面事件有一个更为具体和清晰的认识，所以书写可以让负面情绪得到一定的缓冲，使人慢慢地恢复理智或理性。</li>
 <li>创造才是顶级的生活，具备输出意识，并且输出有价值的内容，以此期望得到反馈，获得正向激励。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2022-10-07T04:45:29.374278+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 10 月 5 日更新）</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2022-10-09T07:52:52.756017+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 10 月 5 日更新）</h1>
 <h2>前言</h2>
 <p>整理一下自己的玩具，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。</p>
 <h2>主要设备</h2>
@@ -337,7 +417,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2022-10-07T04:45:29.698439+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2022-10-09T07:52:52.904149+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/695/29963695/t7_29963695.jpg" alt=" 骆驼祥子（无删节经典完整版）|200" /></li>
 <li>书名： 骆驼祥子（无删节经典完整版）</li>
@@ -729,7 +809,7 @@
 <p>「体面的，要强的，好梦想的，利己的，个人的，健壮的，伟大的，祥子，不知陪着人家送了多少回殡；不知道何时何地会埋起他自己来，埋起这堕落的，自私的，不幸的，社会病胎里的产儿，个人主义的末路鬼!」</p>
 <p>「愚蠢与残忍是这里的一些现象；所以愚蠢，所以残忍，却另有原因。」</p>
 <p>在批判吃人的社会的同时，老舍也描写了鲁迅笔下的“看客们”，「忽然，大家安静了，远远的来了一队武装的警察。“来了!”有人喊了声。紧跟着人声嘈乱起来，整群的人像机器似的一齐向前拥了一寸，又一寸，来了!来了!眼睛全发了光，嘴里都说着些什么，一片人声，整街的汗臭，礼教之邦的人民热烈的爱看杀人呀。」引人深思。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-07T04:45:30.012317+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-09T07:52:53.037764+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/191/44026191/t7_44026191.jpg" alt=" 纳瓦尔宝典|200" /></li>
@@ -799,7 +879,7 @@
 <ul>
 <li>所有产品从V1到V3的必经之路：制造产品，改进产品，建立业务。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-07T04:45:30.307982+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-09T07:52:53.131101+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/v2-5b66186159da5f6ceb6b14bdd0046ad2_b.jpg" alt="十个词汇里的中国|200" /></li>
 <li>书名： 十个词汇里的中国</li>
@@ -846,7 +926,7 @@
 <ul>
 <li>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-07T04:45:30.562815+00:00</updated><content type="html"><![CDATA[<h2>2022年第39周（秋季学期第5周）</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-09T07:52:53.211473+00:00</updated><content type="html"><![CDATA[<h2>2022年第39周（秋季学期第5周）</h2>
 <ul>
 <li>
 跑步<ul>
@@ -962,7 +1042,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-07T04:45:30.828894+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-09T07:52:53.316136+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
 <ul>
 <li>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</li>
 <li>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</li>
@@ -983,10 +1063,10 @@
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2022-10-07T04:45:31.097672+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2022-10-09T07:52:53.395057+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-07T04:45:31.333653+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-09T07:52:53.466559+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -1300,7 +1380,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-07T04:45:31.625815+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-09T07:52:53.587383+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
@@ -1719,4 +1799,4 @@
 <p>贫穷成为犯罪。</p>
 <p>「贫困从社会政策的问题变成了刑法学和典狱学问题。穷人不再是消费者社会的弃儿，他们在全面的竞争中败下阵来，彻头彻尾地成为社会的公敌。依赖救济的人和毒贩、强盗、杀人犯之间，只有一条能够轻易跨越的纤细界线。依赖救济的人是犯罪集团天然的温床，让人们依赖救济生存无异于支持犯罪。」 ^68950658-7ChJ6jerp
 ⏱ 2022-09-15 10:30:17</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/1" rel="alternate"/><category term="读书笔记"/><published>2022-09-16T07:31:43+00:00</published></entry></feed>
+]]></content><link href="https://github.com/hadwinn/blog/issues/1" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T07:31:43+00:00</published></entry></feed>
