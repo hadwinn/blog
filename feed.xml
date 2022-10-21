@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-17T12:11:55.308556+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2022-10-17T12:11:55.813267+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2022-10-21T08:32:15.183738+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2022-10-21T08:32:15.602516+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
 <p>‌‌‌<img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/20221009145508.png" alt="电影，我只略知一二 | 200" /></p>
 <blockquote>
 <p>这档节目不是一系列严谨的学士报告，
@@ -79,7 +79,7 @@
 ‌‌‌　　在一个长期的艺术实践中，艺术家与观众会形成一种紧密的连接关系，会共同形成一种共同的艺术趣味。他们彼此之间是默契的、心照不宣的。所以这个艺术共同体呈现出来的艺术贡献是封闭的、稳定的。创作者的创作是有对象性的，这就是趣味共同体的原则。这种趣味共同体因格里菲斯、爱森斯坦的非凡创作，而显得更加稳定。
 ‌‌‌　　先锋派电影和当时的先锋艺术运动合流，就是要打破这一艺术的趣味惯性，瓦解共同体。因此，先锋电影呈现出了对观众欣赏习惯的挑战，而不是顺从。
 ‌‌‌　　实验电影盛行的年代，电影是多么得活泼，电影形态是多么得多元，它所能够带给观众的是多么立体的感受，那些我们埋藏在潜意识中的、无意识的、下意识的内心的秘密，通过这些看似无序、杂乱，却有着严密的哲学依托的影片，呈现出来。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2022-10-17T12:11:56.087940+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2022-10-21T08:32:15.790574+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
 <p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
 <hr />
 <ul>
@@ -124,7 +124,7 @@
 </li>
 </ul>
 <p>具体应用请参照来源网址。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2022-10-17T12:11:56.320302+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2022-10-21T08:32:15.959101+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/204/33628204/t7_33628204.jpg" alt=" 认知觉醒：开启自我改变的原动力|200" /></li>
@@ -170,13 +170,14 @@
 <li>书写自己当前面临的负面事件，就可以调动更多的理性资源帮助我们整理思路，使处理情绪思维的优先级暂居其后，同时，书写这一行为可以激活大脑皮层的语言区和书写区，使我们对当前遇到的负面事件有一个更为具体和清晰的认识，所以书写可以让负面情绪得到一定的缓冲，使人慢慢地恢复理智或理性。</li>
 <li>创造才是顶级的生活，具备输出意识，并且输出有价值的内容，以此期望得到反馈，获得正向激励。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2022-10-17T12:11:56.572897+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 10 月 5 日更新）</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2022-10-21T08:32:16.149975+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱 （2022 年 10 月 21 日更新）</h1>
 <h2>前言</h2>
 <p>整理一下自己的玩具，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。</p>
 <h2>主要设备</h2>
 <h3>💻 电脑及配件</h3>
 <ul>
-<li>联想(Lenovo) <strong>拯救者Y7000</strong> 15.6英寸</li>
+<li>联想 (Lenovo) <strong>拯救者 Y7000</strong> 15.6 英寸</li>
+<li>苹果 (Apple) <strong>Macbook Air M1</strong> 13.3 英寸 深空灰</li>
 <li>小米 (Mi) <strong>米家台灯</strong> 1S 白色</li>
 <li>罗技 (Logitech) <strong>鼠标</strong> G304 黑色</li>
 <li>高斯 (Ganss) <strong>键盘</strong> GS87C 黑色</li>
@@ -184,7 +185,8 @@
 <h3>📱 手机及平板</h3>
 <ul>
 <li><strong>Apple iPhone 11</strong> 白色，128GB，主力手机，配合苹果全家桶体验很好，</li>
-<li><strong>Apple iPad Air (第三代)</strong>，64GB，主用平时记录课堂笔记，写写课后作业，刷B站。</li>
+<li><strong>Apple iPad Pro 2021 M1</strong> 深空灰，128GB，主力平板，从 Air3 升级。配合 Apple Pencil 第二代。</li>
+<li><del><strong>Apple iPad Air (第三代)</strong>，64GB，主用平时记录课堂笔记，写写课后作业，刷 B 站。</del></li>
 </ul>
 <h3>🎧 耳机及智能穿戴</h3>
 <ul>
@@ -199,13 +201,13 @@
 <li><strong>OneDrive</strong>，1TB</li>
 <li><strong>iCloud</strong>，333GB，主要用于照片备份与软件数据同步</li>
 <li><strong>Google Drive</strong>，15GB</li>
-<li><strong>坚果云</strong>，用来同步简悦配置和Zotero数据</li>
+<li><strong>坚果云</strong>，用来同步简悦配置和 Zotero 数据</li>
 <li><strong>阿里云盘</strong>，6TB，主要用来保存一些影视、剧集资源</li>
 <li><strong>百度网盘</strong>，收集资源</li>
 </ul>
 <h3>🔐 安全工具</h3>
 <ul>
-<li><strong>1Password</strong>，全平台密码、信息保存，UI优雅</li>
+<li><strong>1Password</strong>，全平台密码、信息保存，UI 优雅</li>
 <li><del>Danelane，密码、信息保存（已弃用）</del></li>
 </ul>
 <h3>🌏 网络工具</h3>
@@ -213,33 +215,35 @@
 <li><strong>ClashX</strong>，网络代理工具</li>
 <li><strong>Quantumult X</strong>，网络代理工具，提供分流，重写功能</li>
 <li>
-<strong>Chrome</strong>，从Edge换成了 Chrome<ul>
-<li><strong>AdGuard</strong>，去广告插件 </li>
+<strong>Chrome</strong>，从 Edge 换成了 Chrome<ul>
+<li><strong>AdGuard</strong>，去广告插件</li>
 <li><strong>简悦 + 同步助手</strong>，通过插件记录稍后读和批注，并且增加了简悦自动同步的工作流，摘录的语句会自动同步到 Obsidian 中</li>
 <li><strong>1Password</strong>，密码填充</li>
-<li><strong>iTab</strong>，便签页</li>
+<li><strong>Humble New Tab Page</strong>，简约标签页，iTab 在 Mac 上的显示简直惨不忍睹</li>
 <li><strong>划词翻译</strong>，翻译句子</li>
 <li><strong>Enhancer for YouTube</strong>，提升观看体验</li>
 <li><strong>YouTube 双字幕</strong>，提供双字幕</li>
 <li><strong>Holmes</strong>，在书签中搜索</li>
-<li><strong>Minimal Theme for Twitter</strong>，美化Twitter Web端</li>
+<li><strong>Minimal Theme for Twitter</strong>，美化 Twitter Web 端</li>
 <li><strong>Matter</strong>，稍后读</li>
-<li><strong>Relingo</strong>，在情境中学单词</li>
 <li><strong>Tampermonkey</strong>，油猴脚本</li>
-<li><strong>Wikiwand</strong>，美化Wikipedia</li>
+<li><strong>Wikiwand</strong>，美化 Wikipedia</li>
 <li><strong>Cubox</strong>，稍后读</li>
 <li><strong>Dark Reader</strong>，暗黑模式</li>
-<li><strong>Chrono 下载管理器</strong>，Chrome自带下载太反人类</li>
+<li><strong>Chrono 下载管理器</strong>，Chrome 自带下载太反人类</li>
+<li><strong>遇见单词</strong>，标记、翻译不认识的单词</li>
+<li><del><strong>iTab</strong>，便签页</del></li>
+<li><del><strong>Relingo</strong>，在情境中学单词</del></li>
 </ul>
 </li>
 </ul>
 <h3>🧰 实用工具</h3>
 <ul>
-<li><strong>Cubox</strong>，全平台稍后读，同时也可以聚合newsletter，不过目前导出功能欠缺</li>
-<li><strong>简悦 SimpleRead</strong>，稍后读、网页标注，主要使用场景时用来剪藏文章、保存高亮，通过同步助手自动化到Obsidian收集</li>
+<li><strong>Cubox</strong>，全平台稍后读，同时也可以聚合 newsletter，不过目前导出功能欠缺</li>
+<li><strong>简悦 SimpleRead</strong>，稍后读、网页标注，主要使用场景时用来剪藏文章、保存高亮，通过同步助手自动化到 Obsidian 收集</li>
 <li><strong>滴答清单</strong>，全平台日程管理，功能强大</li>
 <li><strong>PicGo</strong>，图床管理工具，主要写博客的时候上传图片到 GitHub 图床并且生成自定义的 Markdown 格式，可以直接嵌入文章</li>
-<li><strong>PDF Expert</strong>，iPad端，PDF 查看编辑工具，主要用来做一些合并和编辑，查看的话经常还是用自带的 Preview</li>
+<li><strong>PDF Expert</strong>，iPad 端，PDF 查看编辑工具，主要用来做一些合并和编辑，查看的话经常还是用自带的 Preview</li>
 <li><strong>Spark</strong>，邮箱聚合</li>
 <li><strong>Ditto</strong>，复制粘贴增强</li>
 <li><strong>Quicker</strong>，实用小工具箱</li>
@@ -251,19 +255,19 @@
 </ul>
 <h3>📝 记录工具</h3>
 <ul>
-<li><strong>Obsidian</strong>，全平台笔记软件，使用官方同步方案，数据完全在本地，在体验了诸多笔记软件后，Obsidian就是我的答案</li>
-<li><strong>Zotero</strong>，文献管理，阅读后一键导入Obsidian收集整理</li>
-<li><strong>Notion</strong>，因为数据无法本地化和导出困难而放弃，目前只用作个人Wiki，通过super部署静态页面</li>
+<li><strong>Obsidian</strong>，全平台笔记软件，使用官方同步方案，数据完全在本地，在体验了诸多笔记软件后，Obsidian 就是我的答案</li>
+<li><strong>Zotero</strong>，文献管理，阅读后一键导入 Obsidian 收集整理</li>
+<li><strong>Notion</strong>，因为数据无法本地化和导出困难而放弃，目前只用作个人 Wiki，通过 super 部署静态页面</li>
 <li><strong>Office 365</strong>，主要文档/PPT/表格处理工具，其实工作后已经主要都是 Markdown 写为主了，但是最后还是得通过 Word 来排版</li>
 <li><strong>幕布</strong>，思维导图，目前不怎么用了</li>
-<li><strong>AmyMind</strong>，思维导图，可以和Obsidian互通，很有潜力的软件，目前只有网页版</li>
+<li><strong>AmyMind</strong>，思维导图，可以和 Obsidian 互通，很有潜力的软件，目前只有网页版</li>
 <li>Notability，移动端，笔记通过 OneDrive 同步到 Windows</li>
 </ul>
 <h3>📨 信息管理</h3>
 <ul>
-<li><strong>GitHub Pages</strong>，配合 GitHub Action 实现自动部署 </li>
+<li><strong>GitHub Pages</strong>，配合 GitHub Action 实现自动部署</li>
 <li><strong>Twitter</strong>，获取资讯</li>
-<li><strong>Reader 5</strong>，RSS订阅</li>
+<li><strong>Reader 5</strong>，RSS 订阅</li>
 <li><strong>Discord</strong>，社群交流，在上面和外国人学英语</li>
 <li><strong>Instagram</strong>，没事刷刷</li>
 <li><strong>微信读书</strong>，已购入会员，没有的书也可自行上传，全平台同步</li>
@@ -271,14 +275,14 @@
 <h3>💬 通讯社交</h3>
 <ul>
 <li><strong>微信</strong>，生活和学习大部分都还是会通过微信沟通</li>
-<li><strong>QQ</strong>，学校的事情还会用到QQ</li>
+<li><strong>QQ</strong>，学校的事情还会用到 QQ</li>
 <li><strong>Telegram</strong>，订阅一些频道，主要还是前一段时间用来找拼车了</li>
 <li><strong>腾讯会议</strong>，主要会议工具</li>
 <li><del><strong>钉钉</strong>，本科后弃用</del></li>
 </ul>
 <h3>🎸 影音娱乐</h3>
 <ul>
-<li><strong>Apple Music</strong>，主要听歌软件，Windows端简直是灾难</li>
+<li><strong>Apple Music</strong>，主要听歌软件，Windows 端简直是灾难</li>
 <li><strong>Spotify</strong>，备用听歌软件，Windows 端代替 Apple Music</li>
 <li><strong>Apple Podcasts</strong>，主要用来听一些英文播客</li>
 <li><strong>小宇宙</strong>，主要用来听一些中文播客</li>
@@ -360,7 +364,7 @@
 📷 拍照摄影<ul>
 <li><strong>Nomo</strong>，胶片摄影，会员已过期，不续费</li>
 <li><strong>卡片馆</strong>，照片样式制作</li>
-<li><strong>醒图</strong>，从朋友那发现的P图神器</li>
+<li><strong>醒图</strong>，从朋友那发现的 P 图神器</li>
 <li><strong>Google Photos</strong>，照片备份</li>
 <li><strong>Unsplash</strong>，下载分享照片</li>
 <li><strong>PicSaw</strong>，长截图</li>
@@ -371,7 +375,7 @@
 <li><strong>Spark</strong>，iOS 端</li>
 <li><strong>Reader 5</strong>，iOS 端</li>
 <li><strong>Apple Books</strong>，电子书阅读器，主要导入 epub 格式看</li>
-<li><strong>Apple News</strong>，看看新闻学英语，主要在iPad端使用</li>
+<li><strong>Apple News</strong>，看看新闻学英语，主要在 iPad 端使用</li>
 <li><strong>Twitter</strong>，iOS 端，主要国外资讯获取与发布平台</li>
 <li><strong>Instagram</strong>，iOS 端，主要用来发布摄影和日常照片</li>
 <li><strong>少数派</strong>，用来看一些工具类资讯</li>
@@ -417,7 +421,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2022-10-17T12:11:56.933168+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2022-10-21T08:32:16.400205+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/695/29963695/t7_29963695.jpg" alt=" 骆驼祥子（无删节经典完整版）|200" /></li>
 <li>书名： 骆驼祥子（无删节经典完整版）</li>
@@ -809,7 +813,7 @@
 <p>「体面的，要强的，好梦想的，利己的，个人的，健壮的，伟大的，祥子，不知陪着人家送了多少回殡；不知道何时何地会埋起他自己来，埋起这堕落的，自私的，不幸的，社会病胎里的产儿，个人主义的末路鬼!」</p>
 <p>「愚蠢与残忍是这里的一些现象；所以愚蠢，所以残忍，却另有原因。」</p>
 <p>在批判吃人的社会的同时，老舍也描写了鲁迅笔下的“看客们”，「忽然，大家安静了，远远的来了一队武装的警察。“来了!”有人喊了声。紧跟着人声嘈乱起来，整群的人像机器似的一齐向前拥了一寸，又一寸，来了!来了!眼睛全发了光，嘴里都说着些什么，一片人声，整街的汗臭，礼教之邦的人民热烈的爱看杀人呀。」引人深思。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-17T12:11:57.277175+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2022-10-21T08:32:16.651279+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/191/44026191/t7_44026191.jpg" alt=" 纳瓦尔宝典|200" /></li>
@@ -879,7 +883,7 @@
 <ul>
 <li>所有产品从V1到V3的必经之路：制造产品，改进产品，建立业务。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-17T12:11:57.536695+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2022-10-21T08:32:16.866085+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/v2-5b66186159da5f6ceb6b14bdd0046ad2_b.jpg" alt="十个词汇里的中国|200" /></li>
 <li>书名： 十个词汇里的中国</li>
@@ -926,7 +930,7 @@
 <ul>
 <li>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-17T12:11:57.803121+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 41 周（秋季学期第 7 周）</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2022-10-21T08:32:17.061584+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 41 周（秋季学期第 7 周）</h2>
 <ul>
 <li>
 跑步<ul>
@@ -1121,7 +1125,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-17T12:11:58.079517+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人周报"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2022-10-21T08:32:17.260910+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
 <ul>
 <li>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</li>
 <li>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</li>
@@ -1142,10 +1146,10 @@
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2022-10-17T12:11:58.352071+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2022-10-21T08:32:17.436155+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-17T12:11:58.592595+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2022-10-21T08:32:17.618539+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -1459,7 +1463,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-17T12:11:58.894586+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2022-10-21T08:32:17.851859+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
