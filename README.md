@@ -8,11 +8,11 @@
 - Email：[hadwin@duck.com](mailto:hadwin@duck.com)
 - Blog：[https://hadwinn.github.io](https://hadwinn.github.io)
 ## 最近更新
+- [「个人」2023个人周报](https://github.com/hadwinn/blog/issues/14)--2023-01-09
 - [「个人」2022 Recap](https://github.com/hadwinn/blog/issues/13)--2022-12-28
 - [「播客」电影，我只略知一二](https://github.com/hadwinn/blog/issues/12)--2022-10-09
 - [「分享」中文文案排版指北](https://github.com/hadwinn/blog/issues/11)--2022-10-07
 - [「书摘」认知觉醒、认知驱动](https://github.com/hadwinn/blog/issues/10)--2022-10-05
-- [「分享」个人工具箱](https://github.com/hadwinn/blog/issues/9)--2022-10-05
 ## 2022
 - [「个人」2022 Recap](https://github.com/hadwinn/blog/issues/13)--2022-12-28
 - [「播客」电影，我只略知一二](https://github.com/hadwinn/blog/issues/12)--2022-10-09
@@ -31,10 +31,13 @@
 - [「书摘」工作、消费主义和新穷人](https://github.com/hadwinn/blog/issues/1)--2022-09-16
 </details>
 
+## 2023
+- [「个人」2023个人周报](https://github.com/hadwinn/blog/issues/14)--2023-01-09
 ## 东转西载
 - [「分享」中文文案排版指北](https://github.com/hadwinn/blog/issues/11)--2022-10-07
 - [「分享」基于Github Issues的博客搭建](https://github.com/hadwinn/blog/issues/3)--2022-09-16
 ## 个人成长
+- [「个人」2023个人周报](https://github.com/hadwinn/blog/issues/14)--2023-01-09
 - [「个人」2022 Recap](https://github.com/hadwinn/blog/issues/13)--2022-12-28
 - [「个人」2022个人周报](https://github.com/hadwinn/blog/issues/5)--2022-09-18
 ## 听听博客
