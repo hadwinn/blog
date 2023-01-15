@@ -1,5 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2023-01-11T12:23:37.268549+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/14</id><title>「个人」2023个人周报</title><updated>2023-01-11T12:23:37.729575+00:00</updated><content type="html"><![CDATA[<h2>2023 年第 1 周</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2023-01-15T15:07:50.852428+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/15</id><title>「书摘」万历十五年、叫魂：1768年中国妖术大恐慌</title><updated>2023-01-15T15:07:51.160519+00:00</updated><content type="html"><![CDATA[<h1>万历十五年</h1>
+<blockquote>
+<ul>
+<li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/995/840995/t7_840995.jpg" alt=" 万历十五年（精装版）|200" /></li>
+<li>书名： 万历十五年</li>
+<li>作者： 黄仁宇</li>
+<li>简介： 万历十五年是美籍华裔历史学家黄仁宇先生的成名之作，也是他的代表作之一，融会黄先生数十年人生经验与治学体会与一体，首次以“大历史观”分析明代社会之症结，观察现代中国之来路，发人深思。书名虽为万历十五年，然而其内容却俯瞰了整个明朝的兴衰，并且告诉我们与以往历史书中不同的海瑞、张居正……读黄仁宇的书，你会深刻体会“历史给人以智慧”。这是一部打开中国人视野的经典之作，被誉为“像一道匕首，撕开了由意识形态统治历史写作的铁幕”。</li>
+<li>出版时间 2015-08-01 00:00 :00</li>
+<li>ISBN： 9787108053664</li>
+<li>分类： 历史-中国史</li>
+<li>出版社： 生活·读书·新知三联书店</li>
+</ul>
+</blockquote>
+<h3>感悟</h3>
+<ul>
+<li>作者选取朱翊钧，代表朝堂宫闱；选取张居正, 代表顶层文官；选取申时行，代表高级文官；选取戚继光，代表明朝武将；选取海瑞，代表草根官员；选择李贽，代表本官文人。以点带面，勾勒出明朝政治社会的画卷。</li>
+<li>感触最深的是关于万历皇帝朱翊钧。都知道皇帝不好当，但不知道为什么不好当。读完这本书，深刻体会到了皇帝深处政治漩涡中心的挣扎、无助。皇帝不是个人，而是政治制度下最无情的权力产物。臣可以是有缺陷欲望的人，君必须是完美无缺的神；道德体制只对君做出规范，君却对臣毫无办法，上下等级在道德的约束下被颠倒了，使得事实上至高无上的君产生了扭曲的心理，在他看来一切正当或者不正当的劝谏都成了讪君卖直，臣在君眼里变成了伪君子，因此万历在面对文官集团时，逐步选择了消极怠慢。</li>
+<li>本书还有一个点，就是明朝治下的「法制」。「中国两千年来，以道德代替法制，至明代而极，这就是一切问题的症结。」明朝有一部自己的法典《大明律》，但所有问题首先用道德来评判，罪大恶极可用「善」来伪装，赤子之心可用「恶」来抹黑。</li>
+</ul>
+<h3>拾句</h3>
+<ul>
+<li>「我们的司法制度极为简单，缺乏判决争端的根据。即使是技术上的问题送交御前请求决定，也要翻译成为道德问题，以至善或极恶的名义作出断语。在这种具体情况下，只有使全部文官按照“四书”的教导，以忠厚之道待人接物，约束自己的私心，尊重别人的利益，大事化小，小事化无，朝廷才能上下一心，和衷共济。」</li>
+<li>「多少年来，文官已经形成了一种强大的力量，强迫坐在宝座上的皇帝在处理政务时摈斥他个人的意志。皇帝没有办法抵御这种力量，因为他的权威产生于百官的俯伏跪拜之中，他实际上所能控制的则至为微薄。名义上他是天子，实际上他受制于廷臣。万历皇帝以他的聪明接触到了事情的真相，明白了自己立常洵的计划不能成功，就心灰意懒，对这个操纵实际的官僚集团日益疏远，采取了长期怠工的消极对抗。」</li>
+<li>「百官之所以绝对服从皇帝，即使不说是有条件的，但也决不是无目的的。君主专制本来与文官制度相辅相成，在这庞大的组织中，下层的官员把无数不能尽合事实的书面报告逐级递送到中枢，以其数量之多和情况之复杂而要期望中枢事事处置得宜，自然是不可能的。端坐在宝座上的皇帝，他的力量带有宗教色彩，其神秘之处，就在于可以使不合理的处置合理化。换言之，皇帝的处置纵然不能事事合理，但只要百官都能俯首虚心地接受，则不合理也就成为合理。正德皇帝不去培养这种神秘力量，反而偏要去表现自己的将才帅略，岂不是破坏了臣僚们对他绝对服从的大前提？」</li>
+<li>「《万历十五年》指出道德非万能，不能代替技术，尤不可代替法律，但是从没有说道德可以全部不要，只是道德的观点应当远大。凡能先用法律及技术解决的问题，不要先就扯上了一个道德问题。因为道德是一切意义的根源，不能分割，也不便妥协。如果道德上的争执持久不能解决，双方的距离越来越远，则迟早必导致于战争。」</li>
+<li>「道德虽高于法律及技术，但是要提出作争论的根据时，则要在法律及技术之后提出。不能经常提出，也不能在细微末节内提出。」</li>
+</ul>
+<h1>叫魂：1768 年中国妖术大恐慌</h1>
+<blockquote>
+<ul>
+<li><img src="https://weread-1258476243.file.myqcloud.com/weread/cover/89/3300024289/t7_3300024289.jpg" alt=" 叫魂：1768年中国妖术大恐慌|200" /></li>
+<li>书名： 叫魂：1768 年中国妖术大恐慌</li>
+<li>作者： 孔飞力</li>
+<li>简介： 《叫魂》所讲述的是一个关于“盛世妖术”的故事。在中国的千年帝制时代，乾隆皇帝可谓是前没有古人后没有来者的一人。他建立并巩固起来的大清帝国达到了权力与威望的巅峰。然而整个大清的政治与社会生活却被一股名为“叫魂”的妖术之天错地暗。在 1768 年由春天到秋天的那几个月里，这股妖风竟然冲击了半个中国，百性为之惶恐，官员为之奔命，连乾隆也为之寝食难安。作者细致入微的描写令人颤栗，他生动地再现了各省的恐慌是如何演变成一场全国性的除妖运动。
+本书也表现出了一种更为宏大的学术视野，在构建以“叫魂”案为中心的“大叙事”的过程中，在方法论的层次上将社会史、文化史、政治史、经济史、区域分析、官僚科层制度分析以及心理分析等研究方法结合在一起。本书可作为学生必读参考书。</li>
+<li>出版时间 </li>
+<li>ISBN： 9787542643216</li>
+<li>分类： 历史-中国史</li>
+<li>出版社： 上海三联书店</li>
+</ul>
+</blockquote>
+<h3>感悟</h3>
+<ul>
+<li>信息密度不大，听读配合，5h+ 读完。前 1-8 章可以跳过，全是叙述，没有观点论述，如果兴趣不大看评论区的总结就好。重点看后两章，阳光之下再无新事。</li>
+<li>难点就是理解「削发」对于清王朝独特的意义，这是本书的明暗两条逻辑线的关键。</li>
+<li>书中还有一个有趣的点：民众在叫魂事件中充当什么角色？受害者还是帮凶？</li>
+</ul>
+<h3>拾句</h3>
+<ul>
+<li>「1768 年，中国悲剧性近代的前夜。」</li>
+<li>「弘历在江南问题上的恐惧，又将满人被汉化的问题与他作为皇帝的一个更常见的忧虑——行政机构效率下降的问题——联系在一起。到弘历统治中期，从他的言论中似乎透出了一种直接的预感：被汉化的满人与腐败的汉人官吏正在携手使大清帝国走上王朝没落的下坡路。」</li>
+<li>「叫魂危机为弘历同这种焦虑对抗提供了一个内涵丰富的机会与环境。弘历可以用极为轻蔑的语言为那些威胁到或背叛了满人文化特性的人打上记号，以此来廓清并捍卫这种文化特性。他也可以揭露江南那些行为丑陋、倒行逆施的精英，亦即南方的妖党术士，通过对他们的镇压来去除江南文化的堕落腐败。但就在这个当口，妖术之风却正要越出它在江南的发源地，在全国范围内爆发出来。」</li>
+<li>「这里，君主和官僚都陷入了一种两难境地，并都对已经形式化的行政程序抱一种模棱两可的态度。君主不得不用成文法规来约束成千上万为他服务的官僚，以确保他们每个人都按照体现他的利益与安全的行政程序行事。与此同时，他对于如何保持自己的特殊地位、超官僚权力和自主性，也会理所当然地感到关切。结果，他不得不持续斗争挣扎，以避免自身的官僚化。」</li>
+<li>「叫魂危机为对个人的纪律整肃提供了特别合适的机会，因为它是一个建立在如此荒谬的基础之上的案件。君主的愤怒可以发泄在行省官员身上，因为他们未能抓获妖党首犯。然而，这样的失职却是不可避免的，因为这样的妖首并不存在。」</li>
+<li>「政治罪将官僚生涯中的整洁有序的后院置于专制权力的严厉狂暴之下，这就是为什么当叫魂案发生时，它是君主的问题而非官僚们的问题。」</li>
+<li>「要抵制专制权力并不需要通同作弊或苦心经营。官僚机器本身颟顸迟缓的工作方式，就足以使抵制专权的诡计得逞。」</li>
+<li>「叫魂危机的文献记录所折射出的是一种双重的图像。其中那幅粗线条图像勾勒出的是每日进行的对妖术的清剿。而那幅比较隐晦不彰的图像则透露了文献作者和读者之间的关系。从这重叠的图像中，我们可以联想到中国帝制国家的两个侧面：它既是一种工具（其功能是根据清朝皇室和满汉精英层的利益需要来管理国家），也是一种制度（其功能是在不同政治角色之间实行权力分配和地位分派）。」</li>
+<li>「国家作为一种工具（我将之称为“政府”），同我们对于政府的常识性理解是相符的：它是为完成诸如征税、治安和战争之类的任务而建立起的组织机构。国家作为一种制度（我将之称为“官僚君主制”），则是由那些生活于等级秩序之中，其生涯取决于声望和权力、黜陟和安全的人们之间的各种关系所构建而成的。」</li>
+<li>「君主和官僚都可以通过文献的制作来影响人们对某个事件的界定和看法。对叫魂危机当然也可以用这样的手段来加以操纵。民众的恐慌迫使这一危机浮到了社会生活的表面。但是，官僚君主制对妖术意义的界定则明显地受到了体制内不同角色的需要的影响。所有人在处理这一事件时，显然都以一只眼睛盯着官僚世界中的权力和地位。」</li>
+<li>「但是君主究竟能够利用这样一个破绽百出的案子走多远，而不致引起人们对他本人行为的怀疑呢？当这个案子的基础最终崩溃时，君主必须保护自己不受崩塌碎片的伤害。恼羞成怒的弘历以在官僚中寻找替罪羊来结束对叫魂案的清剿。」</li>
+<li>「他（弘历）究竟是否“相信”妖术的存在？最好还是这样地提出问题：对他来说，术士的妖术比之汉文化的蛊惑是否就更不可信？术士们窃取人们的灵魂，腐败的汉文化则窃取满洲的品德，哪一种危险对他更为真实呢？」</li>
+<li>「在帝制后期的中国，绝大多数人没有接近政治权力的机会，也就不能以此通过各自的利益相较去竞争社会资源。对普通臣民来说，仅仅是组成团体去追求特殊的社会利益便构成了政治上的风险。有时，人们便会到旧的帝国制度之外去寻求这种权力；其结果就是造反和革命。但对大多数人来说，权力通常只是存在于幻觉之中；或者，当国家清剿异己时，他们便会抓住这偶尔出现的机会攫取这种自由漂浮的社会权力。只有非常的境况才会给无权无势者带来突然的机会，使他们得以改善自己的状况或打击自己的敌人。即使在今天，让普通民众享有权力仍是一个还未实现的许诺。毫不奇怪，冤冤相报（这是“受困扰社会”中最为普遍的社会进攻方式）仍然是中国社会生活的一个显著特点。」</li>
+<li>「没有什么能够伫立其间，以阻挡这种疯狂。」</li>
+</ul>
+]]></content><link href="https://github.com/hadwinn/blog/issues/15" rel="alternate"/><category term="读书笔记"/><category term="2023"/><published>2023-01-15T15:07:21+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/14</id><title>「个人」2023个人周报</title><updated>2023-01-15T15:07:51.299256+00:00</updated><content type="html"><![CDATA[<h2>2023 年第 1 周</h2>
 <ul>
 <li>跑步 5k</li>
 <li>新年快乐！</li>
@@ -27,7 +91,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/14" rel="alternate"/><category term="个人成长"/><category term="2023"/><published>2023-01-09T11:30:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/13</id><title>「个人」2022 Recap</title><updated>2023-01-11T12:23:37.883790+00:00</updated><content type="html"><![CDATA[<h1>2022 最难忘</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/14" rel="alternate"/><category term="个人成长"/><category term="2023"/><published>2023-01-09T11:30:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/13</id><title>「个人」2022 Recap</title><updated>2023-01-15T15:07:51.421045+00:00</updated><content type="html"><![CDATA[<h1>2022 最难忘</h1>
 <p>说起最难忘的事，那一定是暑假的重庆之行了。因为一些原因错过和大学同学的北海之行，还蛮多遗憾的。可惜的是原定的川渝之行因为成都疫情不能去，导致 5 天只在重庆玩，时间有点太充裕了。运气较好的是，我们到达的 5 天是重庆最气温最低的 5 天，等我们离开就下雨了😂。在重庆我最喜欢的地方居然是金色印象足疗按摩店，139 全身按摩，餐饮自助，环境服务好到我好奇他们是怎么靠 139 盈利的。</p>
 <h1>2022 最感触</h1>
 <p>夜来非：我与伤感的心绪好像总有一点时差，生活也是，感情也是。
@@ -77,7 +141,7 @@
 <h1>明年？</h1>
 <p>FREEDOM Matters
 了解世界，了解自己</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/13" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-12-28T07:54:06+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2023-01-11T12:23:38.038456+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/13" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-12-28T07:54:06+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2023-01-15T15:07:51.554398+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
 <p>‌‌‌<img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/20221009145508.png" alt="电影，我只略知一二 | 200" /></p>
 <blockquote>
 <p>这档节目不是一系列严谨的学士报告，
@@ -157,7 +221,7 @@
 ‌‌‌　　在一个长期的艺术实践中，艺术家与观众会形成一种紧密的连接关系，会共同形成一种共同的艺术趣味。他们彼此之间是默契的、心照不宣的。所以这个艺术共同体呈现出来的艺术贡献是封闭的、稳定的。创作者的创作是有对象性的，这就是趣味共同体的原则。这种趣味共同体因格里菲斯、爱森斯坦的非凡创作，而显得更加稳定。
 ‌‌‌　　先锋派电影和当时的先锋艺术运动合流，就是要打破这一艺术的趣味惯性，瓦解共同体。因此，先锋电影呈现出了对观众欣赏习惯的挑战，而不是顺从。
 ‌‌‌　　实验电影盛行的年代，电影是多么得活泼，电影形态是多么得多元，它所能够带给观众的是多么立体的感受，那些我们埋藏在潜意识中的、无意识的、下意识的内心的秘密，通过这些看似无序、杂乱，却有着严密的哲学依托的影片，呈现出来。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2023-01-11T12:23:38.178319+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2023-01-15T15:07:51.687259+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
 <p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
 <hr />
 <ul>
@@ -202,7 +266,7 @@
 </li>
 </ul>
 <p>具体应用请参照来源网址。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2023-01-11T12:23:38.377877+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2023-01-15T15:07:51.823242+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/204/33628204/t7_33628204.jpg" alt=" 认知觉醒：开启自我改变的原动力|200" /></li>
@@ -248,7 +312,7 @@
 <li>书写自己当前面临的负面事件，就可以调动更多的理性资源帮助我们整理思路，使处理情绪思维的优先级暂居其后，同时，书写这一行为可以激活大脑皮层的语言区和书写区，使我们对当前遇到的负面事件有一个更为具体和清晰的认识，所以书写可以让负面情绪得到一定的缓冲，使人慢慢地恢复理智或理性。</li>
 <li>创造才是顶级的生活，具备输出意识，并且输出有价值的内容，以此期望得到反馈，获得正向激励。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2023-01-11T12:23:38.529643+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 12 月 7 日更新）</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2023-01-15T15:07:51.958230+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 12 月 7 日更新）</h1>
 <h2>前言</h2>
 <p>整理一下自己的玩具，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。</p>
 <h2>主要设备</h2>
@@ -503,7 +567,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2023-01-11T12:23:38.721254+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2023-01-15T15:07:52.142114+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/695/29963695/t7_29963695.jpg" alt=" 骆驼祥子（无删节经典完整版）|200" /></li>
 <li>书名： 骆驼祥子（无删节经典完整版）</li>
@@ -895,7 +959,7 @@
 <p>「体面的，要强的，好梦想的，利己的，个人的，健壮的，伟大的，祥子，不知陪着人家送了多少回殡；不知道何时何地会埋起他自己来，埋起这堕落的，自私的，不幸的，社会病胎里的产儿，个人主义的末路鬼!」</p>
 <p>「愚蠢与残忍是这里的一些现象；所以愚蠢，所以残忍，却另有原因。」</p>
 <p>在批判吃人的社会的同时，老舍也描写了鲁迅笔下的“看客们”，「忽然，大家安静了，远远的来了一队武装的警察。“来了!”有人喊了声。紧跟着人声嘈乱起来，整群的人像机器似的一齐向前拥了一寸，又一寸，来了!来了!眼睛全发了光，嘴里都说着些什么，一片人声，整街的汗臭，礼教之邦的人民热烈的爱看杀人呀。」引人深思。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2023-01-11T12:23:38.929151+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2023-01-15T15:07:52.321839+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/191/44026191/t7_44026191.jpg" alt=" 纳瓦尔宝典|200" /></li>
@@ -965,7 +1029,7 @@
 <ul>
 <li>所有产品从V1到V3的必经之路：制造产品，改进产品，建立业务。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2023-01-11T12:23:39.071292+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2023-01-15T15:07:52.455712+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/v2-5b66186159da5f6ceb6b14bdd0046ad2_b.jpg" alt="十个词汇里的中国|200" /></li>
 <li>书名： 十个词汇里的中国</li>
@@ -1012,7 +1076,7 @@
 <ul>
 <li>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2023-01-11T12:23:39.238114+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 52 周</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2023-01-15T15:07:52.585737+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 52 周</h2>
 <ul>
 <li>恢复跑步 6k</li>
 <li>
@@ -1560,7 +1624,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2023-01-11T12:23:39.478099+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2023-01-15T15:07:52.809260+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
 <ul>
 <li>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</li>
 <li>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</li>
@@ -1581,10 +1645,10 @@
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2023-01-11T12:23:39.644758+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2023-01-15T15:07:52.925041+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2023-01-11T12:23:39.767295+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2023-01-15T15:07:53.048892+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -1898,7 +1962,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2023-01-11T12:23:39.959979+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2023-01-15T15:07:53.214119+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
