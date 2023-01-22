@@ -1,5 +1,69 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2023-01-16T08:51:03.491083+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/15</id><title>「书摘」万历十五年、叫魂：1768年中国妖术大恐慌</title><updated>2023-01-16T08:51:03.777888+00:00</updated><content type="html"><![CDATA[<h1>万历十五年</h1>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/hadwinn/blog</id><title>RSS feed of hadwinn's blog</title><updated>2023-01-22T03:48:51.491612+00:00</updated><author><name>hadwinn</name><email>hadwin0119@outlook.com</email></author><link href="https://github.com/hadwinn/blog"/><link href="https://raw.githubusercontent.com/hadwinn/blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/hadwinn/blog/issues/16</id><title>「书摘」魏晋之际的政治权力与家族网络</title><updated>2023-01-22T03:48:51.813126+00:00</updated><content type="html"><![CDATA[<blockquote>
+<ul>
+<li><img src="https://res.weread.qq.com/wrepub/CB_GIC9ZA9aJDhN6RJ6Pz_parsecover" alt=" 魏晋之际的政治权力与家族网络|200" /></li>
+<li>书名： 魏晋之际的政治权力与家族网络</li>
+<li>作者： 仇鹿鸣</li>
+<li>简介： 对魏晋之际的诸种研究，大体是站在陈寅恪先生相关论述的延长线上加以发展、修正，运用政治集团学说所具有的利弊在这一时段的研究中也有充分的体现。自从1980年代以来，涌现了不少从个别历史事件的考证入手，通过细节的考证复原魏晋之际政治变局的佳作，本书之作亦得益于此。《魏晋之际的政治权力与家族网络》采取将政治史与家族史研究相结合的方式，一方面在政治史的脉络中探讨西晋权力结构从形成到崩溃的过程，另一方面考察魏晋大族之间的政治、婚姻、交往网络，探究这一网络在魏晋政治变局中发挥的作用。</li>
+<li>出版时间：2015-06-01 </li>
+<li>ISBN： 9787532576159</li>
+<li>分类： 历史-中国史</li>
+<li>出版社： 上海古籍出版社</li>
+</ul>
+</blockquote>
+<h3>感悟</h3>
+<ul>
+<li>之所以对西晋的历史感兴趣，不只是因为喜欢三国历史的爱屋及乌，也有对西晋之后中国历史上最漫长的分裂时代的好奇。</li>
+<li>西晋的失败，应该放在东汉以来政治社会与国家意识形态大崩溃的背景下来认识。魏晋之际错综复杂的政治人事关系，以及统治者面对高昂激化的舆论时应对失措，无能、不作为和用错药，变成恶性循环，加剧社会迅速断裂为碎片，“八王之乱”又勾引胡族参加到争权夺利的内讧中来，政治破产、信仰崩溃加上民族斗争，从而造成了中国历史上最为漫长的分裂时代。</li>
+<li>‌‌作者一方面在政治史的脉络中探讨西晋权力结构从形成到崩溃的过程，另一方面考察魏晋大族之间的政治、婚姻、交往网络，探究这一网络在魏晋政治变局中发挥的作用。</li>
+<li>最让人眼前一亮的是作者对于司马氏祖孙三代四人之间的差异及司马氏集团内部变化的分析。</li>
+<li>还有有趣一点是：司马懿的历史形象。司马懿“不欲屈节曹氏”的记载恐非事实，而这一传说在两晋的广泛流行则可能出自西晋官方意识形态的有意渲染，其目的在于制造司马懿本不欲仕魏的假象，史料都在试图建构曹、马长期对立的历史叙事，司马懿仕魏本出于被迫，而曹操对他也常怀疑忌，多次欲除之而后快，为司马氏代魏之举开脱责任。</li>
+<li>这就告诉我们，要将史料放在当时的历史环境中去审视。例如，《晋书》成于唐代，关于晋武帝司马炎的帝位问题，由于唐太宗李世民玄武门之变，《晋书》中就多少有些避讳。</li>
+</ul>
+<h3>梗概</h3>
+<h4>发家</h4>
+<p>‌‌‌‌　　在长时段的视野下观察司马氏家族在汉魏时代的成长过程，其家族在两汉时代有一个“由武入文”的变化过程，在文化特质上属于东汉新兴的文化家族，崇尚博学兼通，经史并重，体现出东汉学术的新风气；在社会地位上则是汉魏时期河内的地方大族，其婚姻、交往网络皆根植于地方社会，与河内乡里有着密切的联系。司马氏家族能在汉末的乱世中崛起，正是借助了乡里评论网络的奥援，获得名士的称誉，最终跻身曹魏的政治网络之中。
+‌‌‌‌　　司马氏成就事业的关键就是网罗同僚，政治联姻。司马懿通过婚姻，与曹氏—夏侯氏一系建立了更为亲密的关系，巩固了其在曹魏政权中的地位。而司马懿拓展权势网络的基点，是从自己原有的人际网络出发，注意网罗曹魏功臣的后裔，这些人的父辈多是司马懿的至交、同僚或是部属，司马懿利用自己的权位成功地从一个人际网络的“受惠者”变成“施惠者”。</p>
+<h4>上升</h4>
+<p>‌‌‌‌　　在曹操去世、曹丕继位的政治敏感时期，司马懿作为曹丕的亲信，发挥了重要作用，“纲纪丧事，内外肃然”，帮助曹丕稳定了政治局面，曹丕也擢升他为丞相长史。
+‌‌‌‌　　在曹丕临终时安排的四位顾命大臣中，陈群与司马懿一样是曹丕的亲信，而曹休、曹真则代表宗室武人势力，达成了政治上的平衡。但曹休、曹真、陈群分别在太和二年（228）、太和五年、青龙四年（236）去世，司马懿成为硕果仅存的顾命大臣。
+‌‌‌‌　　在分析三国历史时，一定不能忽视当时的外部环境。诸葛亮的频频北伐是明帝时代曹魏最大的外部威胁，为了应对蜀汉的军事进攻，不得不打破惯例，即军权一直掌握在曹氏—夏侯氏一系手中的传统，将专制一方的权力授予司马懿。司马懿的介入，打破了自从曹操时代的传统，是为曹魏政治的一大变局，也是司马懿个人权势扩张的一个重要机遇。</p>
+<h4>发微</h4>
+<p>‌‌‌‌　　司马懿凭借着曹魏老臣的支持，以其子司马师出任中护军时蓄养的死士为基本力量，经过精心策划，运用突然袭击的方式击溃了曹爽，控制了曹魏政权‌‌‌‌。　　
+‌‌‌‌　　高平陵之变的过程早已脍炙人口，而这本书揭示了司马氏为什么可以发动政变。换言之，同为托孤大臣的曹爽为什么失去了朝野的支持？
+‌‌‌‌　　魏明帝曹叡安排司马懿与曹爽同受顾命，夹辅幼主，就有平衡朝中宗室、功臣两股势力的目的，而曹爽在架空司马懿之后，已经打破了这种权力的平衡，又大规模进用新人，斥退老臣，自然引起了朝中元老的强烈不满。曹爽这种专权的行为，违背了明帝的遗命，在政治上缺乏足够的合法性。而司马懿作为先帝临终时的托孤重臣，功勋、威望当时无人能出其右，只有他具有干预朝政，改变这种局面的政治权威和号召力，也成了这些曹魏元老支持、依靠的对象。</p>
+<h4>司马师功业</h4>
+<p>‌‌‌‌　　嘉平三年（251 年），司马懿病逝于洛阳，享年 72 岁。司马师继任时曹魏的权力结构大体如下：诸葛诞、毌丘俭、王昶、陈泰、胡遵都督四方，王基、州泰、邓艾、石苞典州郡，卢毓、李丰掌选举，傅嘏、虞松参计谋，钟会、夏侯玄、王肃、陈本、孟康、赵酆、张缉预朝议，四海倾注，朝野肃然。
+‌‌‌‌　　司马师不能像其父司马懿那样通过赢得对外战争的胜利，获取足够的政治威望，只能通过加强对内控制的方式来维系自己的权力。首先，司马师吸取了曹爽覆亡的教训，不轻易改革旧制，维护曹魏官僚阶层的既得利益，为稳固权力赢得了宝贵的时间。
+‌‌‌‌　　在司马师执政的时代，成功地克服了东关惨败所造成的政治危机，逐步扫除了中央与地方的反对势力，开始建立起一支支持魏晋嬗代的政治力量，奠定了魏晋革命的基本格局。
+‌‌‌‌　　但毕竟谁也想不到司马师 47 岁就去世了，加上司马师又没有儿子，唯一一个过继的还是司马昭次子司马攸，且司马师死的时候司马攸才九岁。‌‌‌‌如果不是司马师的意外去世，司马氏的权力恐怕不会传递到司马昭的手中，这从以下一些方面可以窥出端倪：首先，最初在朝中讨论代替司马师出征淮南的人选时，提议的人选是太尉司马孚，而并未考虑司马昭，可见司马昭在司马氏家族内部并没有明确的仅次于司马师的地位。在关键时刻，人们更愿意信任年高望重的司马孚。其次，在司马师死后，围绕着司马昭的接班问题产生了种种流言，这透露出司马昭在掌握权力过程中所遭遇到的重重阻力。</p>
+<h4>司马昭伐蜀之役</h4>
+<p>‌‌‌‌　　司马昭为了完整继承司马师的政治遗产，并且获得司马师旧人的支持，司马昭不得不多次宣称自己只是代掌，等司马攸长大之后便会“归政”于景王一脉。另一方面，甘露五年曹髦被弑。在此情形下，司马昭只有建立不世之功，才能稍稍摆脱政治危机，不仅使自己继承兄长司马师的功业广服人心，而且要使魏晋嬗代重新具有道义上的合法性，景元四年的伐蜀之役便是在这样一个背景下展开的。
+‌‌‌‌　　伐蜀之役实际上是一场服务国内政治目标的对外战争，司马昭之所以力主伐蜀，并非是有澄清天下、混一宇内之志，实际上只是想借伐蜀之功，为其嬗代铺平道路而已。这也可以从另一个侧面解释为何在魏晋鼎革完成之后，西晋君臣对于伐吴完成统一大业始终兴趣不大。</p>
+<h4>淮南三叛</h4>
+<p>‌‌‌‌　　在三次淮南之乱中，由于反对司马氏的淮南诸将内部本身就矛盾重重，目的不一，始终未能形成合力，甚至出现了后一次叛乱的发动者是前一次叛乱的镇压者这样诡异的现象，因此虽然声势浩大，却始终无法对司马氏的权力构成真正的威胁。而司马氏始终能够因势利导，利用他们之间的矛盾，各自击破，在没有给吴国留下可乘之机的同时，成功地完成了对淮南局势的控制。</p>
+<h4>司马氏集团内部的矛盾</h4>
+<p>‌‌‌‌　　邓艾与钟会平蜀，王浑和王濬平吴，两将争功，如何分配胜利果实，充分反映了司马氏集团内部的暗流涌动。
+‌‌‌‌　　邓艾与钟会之间的冲突或许只是一个偶然事件，但是如果将这一事件与王浑、王濬争功，王淩、诸葛诞名誉的恢复，邓艾平反问题的久拖不决等这一系列表面上看似无关的政治事件串联起来加以考察，就可以注意到这一系列偶然事件背后，埋藏着司马氏集团内部的结构性矛盾。与司马氏家族关系密切且有共同文化背景的曹魏贵戚子弟占据了司马氏集团的核心，他们通过对邓艾、王濬这样气类不同的异质力量的排斥，来巩固自己既得的权益，但同时也造成了统治集团内部上升渠道的拥塞。随着西晋的建立，把持朝政的司马氏集团摇身一变转化为西晋的开国功臣群体，这些在魏晋之际有功于司马氏的人物为了在新的政治格局中给自己及家族争取更大的利益，无可避免地展开了一番新的政治角逐，使得这一原本潜藏于地下的结构性矛盾日益凸显，最终酿成了西晋初年政治中的一系列冲突。</p>
+<h4>晋武帝司马炎</h4>
+<p>‌‌‌‌　　虽然在咸熙二年最终完成了亡魏成晋之业，但登上帝位的司马炎相对而言是一个弱势的皇帝。他登基时已经三十岁了，却并无多少实际的政治历练，既没有担当过关键性的行政职务，也没有领兵出征或者出镇州郡的经历。其父司马昭在完成了平蜀称王、开建五等、制定礼律等几乎所有嬗代的准备工作后，在距离帝位仅差一步时去世。可以说，司马炎的继位是在出现意外的情况下进行的，当时距离其被确立为晋世子不过一年的时间，在这短短的一年之中，司马炎不可能建立属于自己的政治班底，其所能依赖的只能是父亲留下的老臣们。
+‌‌‌‌　　为了尽快地确立君臣名分，司马炎在司马昭去世四个月后就完成了魏晋禅让。但是司马炎建立西晋完全是依靠父祖遗业，并无自己独立的政治基础，甚至其世子的地位尚是在贾充、裴秀等人的拥戴下方才获得的，而以曹魏政治网络中长期形成的累世交往、通婚关系而论，除了荀勖之外，当时主导西晋政治的核心人物，无论是宗室方面的司马孚、司马望，还是功臣中的贾充、裴秀、羊祜，几乎都是司马炎的长辈。在此情形下，作为一名缺乏政治经验的皇帝，司马炎所能运用政治资源相当有限，只能被动地继承司马昭后期形成的贾充、裴秀、荀勖、王沈、羊祜等人组成的政治决策核心。
+‌‌‌‌　　司马炎完成嬗代本身只是上承父祖遗烈，下赖叔伯辈的宗室、功臣翼戴而得以完成的一个“摘桃子”式的政治仪式，并无多少讨论的余地。
+‌‌‌‌　　因此在西晋开国之初，所面临的一个关键的政治转型就是要从以家族为单位的权臣政治转向皇权政治，将政治权力由家族集体分享转变为皇帝个人独断，建立起帝系独大的政治结构。
+‌‌‌‌　　咸宁二年，晋武帝司马炎大病一场，期间关于齐王司马攸（晋景帝司马师之继子，晋文王司马昭次子，晋武帝司马炎之同母弟）要取而代之的流言不断，这使本就对自己皇位合法性敏感的司马炎再也无法容忍，最终在太康三年放逐了司马攸。在处理齐王事件的过程中，司马炎对功臣和宗室都产生了怀疑。于是如何来建立自己可以信任的政治班底，辅佐愚鲁的太子司马衷继位，就成了自己最关心的事情。
+‌‌‌‌　　由此宫室外戚登场。十月，立皇后杨氏，于是外戚杨氏家族借此站到西晋政治舞台的中央。其意欲通过扶植外戚的方式，建立起自己可以信赖的政治班底，从而弥补帝系一支人丁单薄的弱点。武帝的这一举措完全改变了魏晋以来的政治传统，对于两晋政治格局演变产生了深远的影响。曹魏或是吸取了东汉外戚专权的政治教训，“三世立贱”，其后族皆出身卑微，家族无闻，没有干预政治的能力。曹魏政治格局的基本特征是宗室与功臣互相制衡，晋初的政治形势亦是如此。随着司马炎重用外戚杨骏，将其作为第三种力量引入政坛，打破了这一传统政治格局，建立了宗室、功臣、外戚三方互相角力的权力结构。自此以后，外戚作为一种关键性的政治力量成为两晋政治中的一项传统。</p>
+<h4>走向崩溃</h4>
+<p>‌‌‌‌　　太康十年的改封诸王是武帝去世前五个月采取的一次重要举措，充分体现了武帝晚年在身后安排上左右摇摆的心理，其最终没有能下定决心废掉不堪大任的太子司马衷，改立司马柬。武帝的如意算盘是只要皇位能够平安地传递到其所钟爱的皇孙司马遹手中，其立司马衷为太子的政治冒险就可以算是大功告成。
+‌‌‌‌　　太康十年武帝的重病与灾异的出现，似乎又动摇了武帝对于外戚杨氏的信任，转向扶植诸侯王的力量，大规模地增加皇子的封邑和食户，并将其委派到各个战略要地，显示了一个明确的政治信号，即宗室势力在西晋政治中地位的重新上升。当然这不是西晋初年宗室力量的复起，而是权力结构的重建，因为这时候宗室势力的核心是武帝诸子，而不是晋初非帝系的诸王。
+‌‌‌‌　　所有条件都已经充分，万事俱备，只差导火索。贾皇后利用宗室之中对于外戚杨骏的普遍愤恨，联络楚王司马玮进京，与孟观、李肇联兵诛杀杨骏兄弟。进而借刀杀人，利用楚王玮与司马亮与卫瓘之间的矛盾，借楚王玮之手，诛杀了宗室元老司马亮与朝中威望甚高的卫瓘，反过来嫁祸于楚王玮，指责楚王玮矫诏，将其处死，通过这一连串的阴谋，为自己独揽朝政扫清了障碍。
+‌‌‌‌　　武帝晚年精心设计的身后安排，在其死后不到一年之内便已分崩离析，两位辅政大臣的候选人杨骏、司马亮先后在政变中被杀，贾皇后作为一系列血腥政治斗争的胜利者，掌握了朝政。
+‌‌‌‌　　随着身为朝野张华，张华的死标志着西晋政治原有权力结构的彻底崩溃，随着赵王伦称帝的尝试，激起了齐王司马冏、河间王司马顒、成都王司马颖的三王起义，整个国家的政治动乱开始从中央波及至地方，原本局限于洛阳朝廷的政治争斗逐渐演变为中央与地方、地方与地方之间全国性的内战。尽管西晋王朝在名义上还风雨飘摇地存在了十八年，但是一个能够正常运作、驾驭地方的稳定的中央权力却早已不复存在。同样从曹魏延续到西晋官僚政治网络也在这场大动乱中遭到了巨大的打击，自汉末以来逐渐形成的大族势力在此期间经历了一次重要的代际更新。</p>
+<h4>结语</h4>
+<p>‌‌‌‌　　西晋作为一个短命的统一王朝，在中国历史的长河中并不是一个受人瞩目的对象。虽然我们还能找到秦、隋这两个与其同样短命的王朝，但所不同的是，代秦、隋而兴起的汉、唐是中国历史上最稳定强盛的两个朝代，而西晋身后却延续了中国历史上最漫长的一个分裂动乱时期。如果说秦、隋可以被视为是一个新时代的渊薮，那么西晋则代表了一个旧时代的背影。从这个意义上来说，西晋历史具有其特殊性。
+‌‌‌‌　　西晋政权的崩溃固然有武帝选立太子失当这样的偶然因素作用其中，但是其官僚阶层的凝固化与排他性则是一个更为深层次的原因。西晋政权的这一结构性矛盾不仅表现在曹魏贵戚子弟对于邓艾、石苞、张华等出身寒素的政治人物的排斥上，在统一大业完成之后，则有进一步的凸现。由于原有官僚阶层的封闭性，吴、蜀两国士人在西晋政治中只能处于边缘的地位，无法进入权力结构的核心，这对于一个统一国家的政治整合无疑是非常不利的，政治上升渠道的闭锁为西晋政权的稳定埋下了隐患。
+‌‌‌‌　　一般王朝改朝换代的过程有所不同，曹魏的政治网络基本上完整地被司马氏继承下来，转化为西晋官僚阶层的主干，这主要是由内部与外部两个因素所共同决定的。一方面在三国分立、强邻窥伺的外部环境下，司马氏家族并不具备进行大规模政治清洗、重建权力结构的条件。而另一方面，司马氏家族本身便是曹魏政治权势网络中的重要一员，与曹魏贵戚子弟有着世代通婚、交往的密切关系，因此采用将魏臣转化为晋臣的建国方式，对于司马氏而言无疑是代价最小、最利于保持政权平稳的过渡方式。
+‌‌‌‌　　西晋官僚阶层经过魏晋两代的生长发育，已经形成了一个通过婚姻、交游、同僚、征辟等方式凝结起来的政治利益共同体，加之魏晋之际玄学清谈的兴起，这些官僚家族除了政治利益外，在文化上也逐步形成了共同的趣味与认同。因此，在西晋一个以累世仕宦为特征，具有共同文化特征，分享一个带有封闭性的通婚、交游网络的大族群体已日渐成型。</p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/16" rel="alternate"/><category term="读书笔记"/><category term="2023"/><published>2023-01-22T03:48:20+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/15</id><title>「书摘」万历十五年、叫魂：1768年中国妖术大恐慌</title><updated>2023-01-22T03:48:51.981525+00:00</updated><content type="html"><![CDATA[<h1>万历十五年</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/995/840995/t7_840995.jpg" alt=" 万历十五年（精装版）|200" /></li>
@@ -63,7 +127,7 @@
 <li>「在帝制后期的中国，绝大多数人没有接近政治权力的机会，也就不能以此通过各自的利益相较去竞争社会资源。对普通臣民来说，仅仅是组成团体去追求特殊的社会利益便构成了政治上的风险。有时，人们便会到旧的帝国制度之外去寻求这种权力；其结果就是造反和革命。但对大多数人来说，权力通常只是存在于幻觉之中；或者，当国家清剿异己时，他们便会抓住这偶尔出现的机会攫取这种自由漂浮的社会权力。只有非常的境况才会给无权无势者带来突然的机会，使他们得以改善自己的状况或打击自己的敌人。即使在今天，让普通民众享有权力仍是一个还未实现的许诺。毫不奇怪，冤冤相报（这是“受困扰社会”中最为普遍的社会进攻方式）仍然是中国社会生活的一个显著特点。」</li>
 <li>「没有什么能够伫立其间，以阻挡这种疯狂。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/15" rel="alternate"/><category term="读书笔记"/><category term="2023"/><published>2023-01-15T15:07:21+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/14</id><title>「个人」2023个人周报</title><updated>2023-01-16T08:51:03.933417+00:00</updated><content type="html"><![CDATA[<h2>2023 年第 2 周</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/15" rel="alternate"/><category term="读书笔记"/><category term="2023"/><published>2023-01-15T15:07:21+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/14</id><title>「个人」2023个人周报</title><updated>2023-01-22T03:48:52.147771+00:00</updated><content type="html"><![CDATA[<h2>2023 年第 2 周</h2>
 <ul>
 <li>跑步 11.3k。在网友 1 对 1 帮助下，成功更换了跑步记录的数据流：Apple Fitness -&gt; Strava -&gt; running page。Strava 不仅能记录跑步，Apple Fitness 中体能训练如力量训练、瑜伽都能一站记录，所以顺便订阅了 Strava，目前把之前的跑步数据先上传上去，看看数据分析功能如何。同时参与了 Strava 的 5k 训练课程。我的 <a href="https://www.strava.com/athletes/112494998">Strava</a> </li>
 <li>说来有趣，帮我打开 blog 大门的网友，给了我莫大的鼓励。感谢 Leeyom 哥</li>
@@ -116,7 +180,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/14" rel="alternate"/><category term="个人成长"/><category term="2023"/><published>2023-01-09T11:30:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/13</id><title>「个人」2022 Recap</title><updated>2023-01-16T08:51:04.053340+00:00</updated><content type="html"><![CDATA[<h1>2022 最难忘</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/14" rel="alternate"/><category term="个人成长"/><category term="2023"/><published>2023-01-09T11:30:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/13</id><title>「个人」2022 Recap</title><updated>2023-01-22T03:48:52.299937+00:00</updated><content type="html"><![CDATA[<h1>2022 最难忘</h1>
 <p>说起最难忘的事，那一定是暑假的重庆之行了。因为一些原因错过和大学同学的北海之行，还蛮多遗憾的。可惜的是原定的川渝之行因为成都疫情不能去，导致 5 天只在重庆玩，时间有点太充裕了。运气较好的是，我们到达的 5 天是重庆最气温最低的 5 天，等我们离开就下雨了😂。在重庆我最喜欢的地方居然是金色印象足疗按摩店，139 全身按摩，餐饮自助，环境服务好到我好奇他们是怎么靠 139 盈利的。</p>
 <h1>2022 最感触</h1>
 <p>夜来非：我与伤感的心绪好像总有一点时差，生活也是，感情也是。
@@ -166,7 +230,7 @@
 <h1>明年？</h1>
 <p>FREEDOM Matters
 了解世界，了解自己</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/13" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-12-28T07:54:06+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2023-01-16T08:51:04.180903+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/13" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-12-28T07:54:06+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/12</id><title>「播客」电影，我只略知一二</title><updated>2023-01-22T03:48:52.465743+00:00</updated><content type="html"><![CDATA[<p>‌‌‌　　最近几天听了科长的一档节目，不长，除引言外一共 12 小节，每节大约 15 分钟。无论是看了无数电影，还是对电影不甚了解，都可以和科长一起思考思考：电影的一些根本性问题。感兴趣的朋友可以去看理想 App 听听看。</p>
 <p>‌‌‌<img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/20221009145508.png" alt="电影，我只略知一二 | 200" /></p>
 <blockquote>
 <p>这档节目不是一系列严谨的学士报告，
@@ -246,7 +310,7 @@
 ‌‌‌　　在一个长期的艺术实践中，艺术家与观众会形成一种紧密的连接关系，会共同形成一种共同的艺术趣味。他们彼此之间是默契的、心照不宣的。所以这个艺术共同体呈现出来的艺术贡献是封闭的、稳定的。创作者的创作是有对象性的，这就是趣味共同体的原则。这种趣味共同体因格里菲斯、爱森斯坦的非凡创作，而显得更加稳定。
 ‌‌‌　　先锋派电影和当时的先锋艺术运动合流，就是要打破这一艺术的趣味惯性，瓦解共同体。因此，先锋电影呈现出了对观众欣赏习惯的挑战，而不是顺从。
 ‌‌‌　　实验电影盛行的年代，电影是多么得活泼，电影形态是多么得多元，它所能够带给观众的是多么立体的感受，那些我们埋藏在潜意识中的、无意识的、下意识的内心的秘密，通过这些看似无序、杂乱，却有着严密的哲学依托的影片，呈现出来。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2023-01-16T08:51:04.318206+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
+]]></content><link href="https://github.com/hadwinn/blog/issues/12" rel="alternate"/><category term="2022"/><category term="听听博客"/><published>2022-10-09T07:50:57+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/11</id><title>「分享」中文文案排版指北</title><updated>2023-01-22T03:48:52.668387+00:00</updated><content type="html"><![CDATA[<p>转载于：GitHub repository: <a href="https://github.com/mzlogin/chinese-copywriting-guidelines">mzlogin/chinese-copywriting-guidelines</a></p>
 <p>统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质。</p>
 <hr />
 <ul>
@@ -291,7 +355,7 @@
 </li>
 </ul>
 <p>具体应用请参照来源网址。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2023-01-16T08:51:04.458106+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/11" rel="alternate"/><category term="东转西载"/><category term="2022"/><published>2022-10-07T04:42:41+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/10</id><title>「书摘」认知觉醒、认知驱动</title><updated>2023-01-22T03:48:52.827690+00:00</updated><content type="html"><![CDATA[<h1>认知觉醒</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/204/33628204/t7_33628204.jpg" alt=" 认知觉醒：开启自我改变的原动力|200" /></li>
@@ -337,7 +401,7 @@
 <li>书写自己当前面临的负面事件，就可以调动更多的理性资源帮助我们整理思路，使处理情绪思维的优先级暂居其后，同时，书写这一行为可以激活大脑皮层的语言区和书写区，使我们对当前遇到的负面事件有一个更为具体和清晰的认识，所以书写可以让负面情绪得到一定的缓冲，使人慢慢地恢复理智或理性。</li>
 <li>创造才是顶级的生活，具备输出意识，并且输出有价值的内容，以此期望得到反馈，获得正向激励。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2023-01-16T08:51:04.583078+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 12 月 7 日更新）</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/10" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T11:28:53+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/9</id><title>「分享」个人工具箱</title><updated>2023-01-22T03:48:52.983834+00:00</updated><content type="html"><![CDATA[<h1>个人工具箱（2022 年 12 月 7 日更新）</h1>
 <h2>前言</h2>
 <p>整理一下自己的玩具，在这个时间节点作一下记录，后续也会不断更新，希望能够对其他人有所参考。</p>
 <h2>主要设备</h2>
@@ -592,7 +656,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2023-01-16T08:51:04.767189+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/9" rel="alternate"/><category term="2022"/><category term="随缘分享"/><published>2022-10-05T09:57:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/8</id><title>「书摘」骆驼祥子</title><updated>2023-01-22T03:48:53.215596+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/695/29963695/t7_29963695.jpg" alt=" 骆驼祥子（无删节经典完整版）|200" /></li>
 <li>书名： 骆驼祥子（无删节经典完整版）</li>
@@ -984,7 +1048,7 @@
 <p>「体面的，要强的，好梦想的，利己的，个人的，健壮的，伟大的，祥子，不知陪着人家送了多少回殡；不知道何时何地会埋起他自己来，埋起这堕落的，自私的，不幸的，社会病胎里的产儿，个人主义的末路鬼!」</p>
 <p>「愚蠢与残忍是这里的一些现象；所以愚蠢，所以残忍，却另有原因。」</p>
 <p>在批判吃人的社会的同时，老舍也描写了鲁迅笔下的“看客们”，「忽然，大家安静了，远远的来了一队武装的警察。“来了!”有人喊了声。紧跟着人声嘈乱起来，整群的人像机器似的一齐向前拥了一寸，又一寸，来了!来了!眼睛全发了光，嘴里都说着些什么，一片人声，整街的汗臭，礼教之邦的人民热烈的爱看杀人呀。」引人深思。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2023-01-16T08:51:04.939491+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/8" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-05T05:18:37+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/7</id><title>「书摘」纳瓦尔宝典、创造：用非传统方式做有价值的事</title><updated>2023-01-22T03:48:53.449695+00:00</updated><content type="html"><![CDATA[<h1>纳瓦尔宝典 - 埃里克 · 乔根森</h1>
 <blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/191/44026191/t7_44026191.jpg" alt=" 纳瓦尔宝典|200" /></li>
@@ -1054,7 +1118,7 @@
 <ul>
 <li>所有产品从V1到V3的必经之路：制造产品，改进产品，建立业务。</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2023-01-16T08:51:05.057902+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/7" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T09:59:46+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/6</id><title>「书摘」十个词汇里的中国</title><updated>2023-01-22T03:48:53.629453+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://raw.githubusercontent.com/hadwinn/assets/master/img/v2-5b66186159da5f6ceb6b14bdd0046ad2_b.jpg" alt="十个词汇里的中国|200" /></li>
 <li>书名： 十个词汇里的中国</li>
@@ -1101,7 +1165,7 @@
 <ul>
 <li>「公正地说，从一九八0年到一九八九年期间，中国的政治体制改革的步伐虽然落后于经济体制的改革，可是毕竟是在改革之中。一九八九年天安门事件以后，政治体制改革的停滞，经济却开始了飞速的发展。这是令人匪夷所思的，我们因此置身于一个充满了矛盾的现实里：一边是保守，另一边是激进；一边是政治权力的集中，另一边是经济利益的开放；一边是教条主义，另一边是无政府主义；一边是循规蹈矩，另一边是放荡不羁……过去的二十年，我们的发展是片面的，不是全面的发展。这样的片面发展，已经伤害到了社会应有的健康。」</li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2023-01-16T08:51:05.176159+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 52 周</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/6" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-10-01T01:33:35+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/5</id><title>「个人」2022个人周报</title><updated>2023-01-22T03:48:53.832313+00:00</updated><content type="html"><![CDATA[<h2>2022 年第 52 周</h2>
 <ul>
 <li>恢复跑步 6k</li>
 <li>
@@ -1649,7 +1713,7 @@
 </ul>
 </li>
 </ul>
-]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2023-01-16T08:51:05.394236+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
+]]></content><link href="https://github.com/hadwinn/blog/issues/5" rel="alternate"/><category term="个人成长"/><category term="2022"/><published>2022-09-18T12:13:12+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/4</id><title>「书摘」谈谈方法、当我谈跑步时，我谈些什么、怀旧的乌托邦</title><updated>2023-01-22T03:48:54.060184+00:00</updated><content type="html"><![CDATA[<h1>谈谈方法 - 笛卡尔</h1>
 <ul>
 <li>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</li>
 <li>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</li>
@@ -1670,10 +1734,10 @@
 <p>查尔斯·埃格蒙特（Charles Egremont）对这个宣告评论道：“其实就是一个是富人，一个是穷人。”</p>
 <p>鲍曼阐述了当代的五种历史倒车：霍布斯倒车（分裂的利维坦），部落倒车（种族/民族主义和排外情绪），不平等倒车（福利国家续不动了），子宫倒车（极端个体化）。其解决方案是建立一种类似全球共同体的治理结构来完成所有人与所有人的和平共处，可持续发展。
 延申阅读：<a href="https://github.com/hadwinn/blog/issues/1">工作、消费主义和新穷人</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2023-01-16T08:51:05.494049+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
+]]></content><link href="https://github.com/hadwinn/blog/issues/4" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-18T12:06:25+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/3</id><title>「分享」基于Github Issues的博客搭建</title><updated>2023-01-22T03:48:54.212527+00:00</updated><content type="html"><![CDATA[<h2>本blog的后端搭建与前端pages界面教程来源于@superleeyom，感谢大佬的教程，也感谢为这个项目开源代码的各位大佬。</h2>
 <p>这里转载存档。
 链接：<a href="https://github.com/superleeyom/blog/issues/38">https://github.com/superleeyom/blog/issues/38</a></p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2023-01-16T08:51:05.628160+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/3" rel="alternate"/><category term="技术相关"/><category term="东转西载"/><category term="2022"/><published>2022-09-16T11:52:01+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/2</id><title>「书摘」离婚</title><updated>2023-01-22T03:48:54.365212+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li><img src="https://wfqqreader-1252317822.image.myqcloud.com/cover/751/24973751/t7_24973751.jpg" alt=" 离婚|200" /></li>
 <li>书名： 离婚</li>
@@ -1987,7 +2051,7 @@
 <h1>读书笔记</h1>
 <h1>本书评论</h1>
 <p>可怜之人必有可恨之处。老李是爬到井边看了一眼的人，他向往自己所谓的诗意，却被生活摔入井中。他看不起乡下的妻子，看不起市井的衙门，可他却一直受其惠。妻子照顾孩子照顾生活，科员的工资让他在北平有面。人的悲哀莫过于知道太多，能做的太少。</p>
-]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2023-01-16T08:51:05.790023+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/hadwinn/blog/issues/2" rel="alternate"/><category term="读书笔记"/><category term="2022"/><published>2022-09-16T08:25:44+00:00</published></entry><entry><id>https://github.com/hadwinn/blog/issues/1</id><title>「书摘」工作、消费主义和新穷人</title><updated>2023-01-22T03:48:54.544862+00:00</updated><content type="html"><![CDATA[<blockquote>
 <ul>
 <li>书名： 工作、消费主义和新穷人</li>
 <li>作者： (英)齐格蒙特·鲍曼</li>
